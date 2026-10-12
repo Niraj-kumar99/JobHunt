@@ -1,0 +1,1738 @@
+{
+ "ABB": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.abb/us/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "ASM International": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.asm.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "ASML": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.asml.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "AXA": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.axa.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Accor": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.accor.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Admiral Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.admiraljobs.co.uk/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Adyen": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.adyen.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Ahold Delhaize": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://aholddelhaize.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Air Liquide": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "airliquidehr.wd3.myworkdayjobs.com|airliquidehr|AirLiquideExternalCareer",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Airbus": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.airbus.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "AkzoNobel": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.akzonobel.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Allegro": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.allegro.eu/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Allianz": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.allianz.com/global/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Alstom": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobsearch.alstom.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Amadeus": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://amadeus.com/en/careers/overview",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Andritz": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.andritz.com/group-en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Anglo American": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.angloamerican.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Arm": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.arm.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "AstraZeneca": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.astrazeneca.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Atlas Copco": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "www.jobs.atlascopcogroup.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Audi": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.audi.com/en/careers-at-audidriven-by-tech-driven-by-people-17124",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "BAE Systems": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.baesystems.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "BASF": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "basf.jobs",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "BBC": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "careers.bbc.co.uk",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "BP": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "bpinternational.wd3.myworkdayjobs.com|bpinternational|bpCareers",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "BT Group": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.bt.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Barclays": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "barclays.wd3.myworkdayjobs.com|barclays|External_Career_Site_Barclays",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Beiersdorf": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.beiersdorf.com/career/overview",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Bitdefender": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.bitdefender.com/en-us/company/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Bitpanda": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://group.bitpanda.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Boehringer Ingelheim": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.boehringer-ingelheim.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Bolt": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://bolt.eu/en/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Booking.com": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.booking.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Booksy": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://booksy.com/en-us/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Bosch": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-12",
+  "id": "BoschGroup",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Burberry": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "burberrycareers.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "CD Projekt": {
+  "ats": "smartrecruiters",
+  "checked": "2026-10-12",
+  "id": "CDPROJEKTRED",
+  "note": "found via job search page",
+  "ok": true
+ },
+ "CRH": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.crh.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Capgemini": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.capgemini.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Carlsberg": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "careers.carlsberg.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Celonis": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.celonis.com",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Coca-Cola HBC": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.coca-colahellenic.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Collibra": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.collibra.com/company/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Coloplast": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "careers.coloplast.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Compass Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.compass-group.com/en/careers.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Continental": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.continental.com/en/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Criteo": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "criteo.wd3.myworkdayjobs.com|criteo|Criteo_Career_Site",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "DHL Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.dhl.com/amer/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "DNB": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.dnb.no/en/about-us/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "DSM-Firmenich": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.dsm-firmenich.com/en/careers.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "DSV": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.dsv.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Danone": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.danone.com/en-global/home.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Danske Bank": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://danskebank.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Darktrace": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "darktrace.wd3.myworkdayjobs.com|darktrace|DarktaceExternal",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Dassault Aviation": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.dassault-aviation.com/en/group/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Dassault Systèmes": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.3ds.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Decathlon": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://joinus.decathlon.fr/en/annonces",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "DeepL": {
+  "ats": "ashby",
+  "checked": "2026-10-12",
+  "id": "DeepL",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Deliveroo": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.deliveroo.co.uk/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Delivery Hero": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.deliveryhero.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Deutsche Bahn": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://db.jobs/de-de",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Deutsche Bank": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.db.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Deutsche Börse": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.deutsche-boerse.com",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Deutsche Telekom": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.telekom.com/en/telekom-as-an-employer",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Diageo": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "diageo.wd3.myworkdayjobs.com|diageo|Diageo_Careers",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Doctolib": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.doctolib.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "EDP": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.edp.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Enel": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.enel.com/en_US/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Engie": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.engie.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Eni": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.eni.com/en-IT/careers.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Epiroc": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "www.careerprofile.epiroc.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Equinor": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "equinor.wd3.myworkdayjobs.com|equinor|EQNR",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Ericsson": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.ericsson.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Erste Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.erstegroup.com/en/career",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "EssilorLuxottica": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.essilorluxottica.com/en/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Essity": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.essity.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Euroclear": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.euroclear.com/errors/en/404.html#https://www.euroclear.com/about/en/careers.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Experian": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.experian.com/jobs",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Feedzai": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.feedzai.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Ferrovial": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.ferrovial.com/en/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Flutter Entertainment": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://flutter.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "GSK": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.gsk.com/en-gb/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Galp": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.galp.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Genmab": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.genmab.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Givaudan": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.givaudan.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Glencore": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.glencore.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Glovo": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://about.glovoapp.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "GoCardless": {
+  "ats": "greenhouse",
+  "checked": "2026-10-12",
+  "id": "gocardless",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Google DeepMind": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://deepmind.google/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Grifols": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.grifols.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "HSBC": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.hsbc.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Handelsbanken": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.handelsbanken.com/en/vacancies",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Heineken": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.theheinekencompany.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "HelloFresh": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.hellofresh.com/global/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Henkel": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.henkel.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Holcim": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.holcim.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "IKEA": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.ikea.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "ING": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.ing.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Indra": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "careers.indragroup.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Infineon Technologies": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.infineon.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Infobip": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "infobip.wd3.myworkdayjobs.com|infobip|InfobipCareers",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Intercom": {
+  "ats": "greenhouse",
+  "checked": "2026-10-12",
+  "id": "intercom",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Intesa Sanpaolo": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://group.intesasanpaolo.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Jaguar Land Rover": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "www.jaguarlandrovercareers.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Jerónimo Martins": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.jeronimomartins.com/en/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Just Eat Takeaway.com": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.justeattakeaway.com/global/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Kering": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.kering.com/en/talent/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Kerry Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.kerry.com/gb/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Kiwi.com": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.kiwi.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Klarna": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.klarna.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Kone": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.kone.com/global/en/careers.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Kongsberg": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.kongsberg.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Kuehne+Nagel": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.kuehne-nagel.com/global/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "L'Oréal": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.loreal.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "LPP": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.lpp.com/en/career/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "LVMH": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.lvmh.com/join-us",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Legrand": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.legrand.com/en/working-at-legrand",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Leonardo": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "leonardocompany.wd3.myworkdayjobs.com|leonardocompany|LeonardoCareerSite",
+  "note": "found via job search page",
+  "ok": true
+ },
+ "Lidl": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.lidl.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Lloyds Banking Group": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "lbg.wd3.myworkdayjobs.com|lbg|lbg_Careers",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "London Stock Exchange Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.lseg.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Lovable": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://lovable.dev/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Maersk": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.maersk.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Mango": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.mango.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Mapfre": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.mapfre.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Marks & Spencer": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.marksandspencer.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Merck KGaA": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.emdgroup.com/us/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Michelin": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.michelinman.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Mistral AI": {
+  "ats": "ashby",
+  "checked": "2026-10-12",
+  "id": "mistral.ai",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Mollie": {
+  "ats": "ashby",
+  "checked": "2026-10-12",
+  "id": "Mollie",
+  "note": "found via job search page",
+  "ok": true
+ },
+ "Monzo": {
+  "ats": "greenhouse",
+  "checked": "2026-10-12",
+  "id": "monzo",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Munich Re": {
+  "ats": "greenhouse",
+  "checked": "2026-10-12",
+  "id": "nextinsurancemresandbox",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "N26": {
+  "ats": "greenhouse",
+  "checked": "2026-10-12",
+  "id": "n26",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "National Grid": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.nationalgrid.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Neste": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.neste.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Nokia": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.nokia.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Nord Security": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://nordsecurity.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Nordea": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.nordea.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Novartis": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.novartis.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Novo Nordisk": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.novonordisk.com/careers.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "ORLEN": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.orlen.pl/en/career",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Ocado Group": {
+  "ats": "greenhouse",
+  "checked": "2026-10-12",
+  "id": "ocadogroup",
+  "note": "found via job search page",
+  "ok": true
+ },
+ "Octopus Energy": {
+  "ats": "lever",
+  "checked": "2026-10-12",
+  "id": "octoenergy",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Odoo": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.odoo.com/jobs",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "On": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://culture.on.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Orange": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://orange.jobs/gb/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Otto Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.ottogroup.com/en/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "OutSystems": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "outsystems.wd503.myworkdayjobs.com|outsystems|OutSystems",
+  "note": "found via job search page",
+  "ok": true
+ },
+ "PKO Bank Polski": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.pkobp.pl/kariera",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "PZU": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.pzu.pl/kariera",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Pandora": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.pandoragroup.com/en-gb/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Partners Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.partnersgroup.com/en/careers/welcome",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Pernod Ricard": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "pernodricard.wd3.myworkdayjobs.com|pernodricard|pernod-ricard",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Philips": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "philips.wd3.myworkdayjobs.com|philips|jobs-and-careers",
+  "note": "found via job search page",
+  "ok": true
+ },
+ "Picnic": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.picnic.app/en/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Pipedrive": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.pipedrive.com/en/jobs",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Pirelli": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://corporate.pirelli.com/corporate/en-ww/careers/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Porsche": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.porsche.com/index.php?ac=start",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Poste Italiane": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.posteitaliane.it/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Prezi": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://prezi.com/jobs/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Productboard": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.productboard.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Prysmian": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.prysmian.com/en/people-and-careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Publicis Groupe": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.publicisgroupe.com/jobs",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Puma": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "puma.wd502.myworkdayjobs.com|puma|Jobs_at_Puma",
+  "note": "found via job search page",
+  "ok": true
+ },
+ "Qonto": {
+  "ats": "lever",
+  "checked": "2026-10-12",
+  "id": "qonto",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "RELX": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.relx.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "RWE": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.rwe.com/en/rwe-careers-portal/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Raiffeisen Bank International": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.rbinternational.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Reckitt": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "careers.reckitt.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Red Bull": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.redbull.com/us-en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Renault Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.renaultgroup.com/en/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Repsol": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "repsol.wd3.myworkdayjobs.com|repsol|Repsol",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Revolut": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.revolut.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Rheinmetall": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.rheinmetall.com/en/career/career-overview",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Rimac Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.rimac-group.com",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Rio Tinto": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.riotinto.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Roche": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "roche.wd3.myworkdayjobs.com|roche|roche-ext",
+  "note": "found via job search page",
+  "ok": true
+ },
+ "Rohlik Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.rohlik.group/work-with-us",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Rolls-Royce": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.rolls-royce.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Ryanair": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.ryanair.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "SAP": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.sap.com/en/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "SEB": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://sebgroup.com/career",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "SKF": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.skf.com/group/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Saab": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.saab.com/career",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Sage Group": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.sage.com/en-gb/company/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Sainsbury's": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.sainsburys.jobs/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Sandvik": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "sandvik.wd3.myworkdayjobs.com|sandvik|sandvik-jobs",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Sanofi": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.sanofi.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Santander": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "santander.wd3.myworkdayjobs.com|santander|SantanderCareers",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Satispay": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.satispay.com/en-it/404/index.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Scania": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.scania.com/group/en/home/career.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Schibsted": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://schibsted.com/career/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Schindler": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "job.schindler.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Shell": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.shell.com/careers.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Siemens": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.siemens.com/en_US/externaljobs",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Siemens Energy": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.siemens-energy.com/en_US/jobs",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Siemens Healthineers": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.siemens-healthineers.com/global/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Skeleton Technologies": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.skeletontech.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Smurfit Westrock": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.smurfitwestrock.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Société Générale": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.societegenerale.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Solvay": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.solvay.com/en/career",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Sonae": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.sonae.pt/en/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Spotify": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.lifeatspotify.com/jobs",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Standard Chartered": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.standardchartered.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Stripe": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://stripe.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Supercell": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://supercell.com/en/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Swiss Re": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.swissre.com/careers.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Synthesia": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.synthesia.io/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Telenor": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.telenor.com/career/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Telia Company": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.teliacompany.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Tenaris": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.tenaris.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Terna": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.terna.it/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Tesco": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.tesco.com/careers/en-GB",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Thales": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.thalesgroup.com/global/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "TomTom": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.tomtom.com/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "TotalEnergies": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://totalenergies.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Trade Republic": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://traderepublic.com/en-de/about#career",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "UCB": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.ucb.com/global/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "UPM": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.upm.com/people-and-careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Ubisoft": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.ubisoft.com/en-us/company/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Umicore": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.umicore.com/en/careers/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "UniCredit": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.unicreditgroup.eu/en/careers.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Unilever": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "unilever.wd3.myworkdayjobs.com|unilever|Unilever_Experienced_Professionals",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Veolia": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.veolia.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Veriff": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.veriff.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Vestas": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "careers.vestas.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Vinci": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.vinci.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Vinted": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.vinted.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Vodafone": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.vodafone.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Volvo Cars": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.volvocars.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Volvo Group": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.volvogroup.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Vonovia": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.vonovia.de",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "WPP": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.wpp.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Wise": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://wise.jobs/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Wolt": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.wolt.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Wolters Kluwer": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "wk.wd3.myworkdayjobs.com|wk|External",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "Wärtsilä": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "careers.wartsila.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Yara": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.yara.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "ZF Friedrichshafen": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.zf.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Zalando": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://jobs.zalando.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Zurich Insurance Group": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "www.careers.zurich.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "adidas": {
+  "ats": "successfactors",
+  "checked": "2026-10-12",
+  "id": "jobs.adidas-group.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "airBaltic": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.airbaltic.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "argenx": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "argenx.wd3.myworkdayjobs.com|argenx|External_Careers",
+  "note": "found on careers page",
+  "ok": true
+ },
+ "bunq": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://careers.bunq.com/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "thyssenkrupp": {
+  "ats": "workday",
+  "checked": "2026-10-12",
+  "id": "steeleurope.wd3.myworkdayjobs.com|steeleurope|Job_Board",
+  "note": "found via job search page",
+  "ok": true
+ },
+ "Ørsted": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://orsted.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Škoda Auto": {
+  "ats": "generic",
+  "checked": "2026-10-12",
+  "id": "https://www.skoda-auto.com/company/education",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ }
+}
