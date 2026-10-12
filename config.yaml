@@ -1,0 +1,57 @@
+# ---------------------------------------------------------------------------
+# Job bot settings. Edit these, commit, and the next run uses them.
+# ---------------------------------------------------------------------------
+
+# Only report jobs posted within this many days.
+max_age_days: 5
+
+# Maximum years of experience a job may ask for (0-1 years => 1).
+# A range like "1-3 years" passes because its minimum is 1; the report shows the range.
+max_experience_years: 1
+
+# If a posting states no experience requirement and has no entry-level signal
+# (junior / associate / graduate / coordinator ...), keep it anyway?
+# false = strict (fewer, more certain matches); true = more matches to review.
+allow_unstated_experience: false
+
+# Internships, working-student and apprenticeship roles are excluded unless true.
+include_internships: false
+
+# Jobs whose description language can't be determined: keep them?
+allow_unknown_language: true
+
+# Jobs whose location can't be determined (e.g. just "Hybrid") at a European company: keep them?
+allow_unknown_location: true
+
+# Job titles to look for (regular expressions, case-insensitive).
+title_patterns:
+  - '\bproject\s+(manager|coordinator|officer|administrator|analyst|management\s+(associate|analyst|trainee))\b'
+  - '\bproduct\s+(manager|owner|coordinator|management\s+(associate|analyst|trainee))\b'
+  - '\bprogram(me)?\s+(manager|coordinator|associate|analyst)\b'
+  - '\bbusiness\s+analyst\b'
+  - '\bpmo\s+(analyst|coordinator|associate|officer|specialist)\b'
+  - '\b(associate|junior|jr\.?)\s+(project|product|program(me)?)\s+manager\b'
+
+# Search words sent to job platforms that require a keyword search (Workday, SmartRecruiters, SuccessFactors).
+search_terms:
+  - project manager
+  - project coordinator
+  - product manager
+  - product owner
+  - product coordinator
+  - program manager
+  - programme manager
+  - business analyst
+
+# How many companies to scan at the same time.
+workers: 8
+
+# Re-check which job platform each company uses after this many days.
+rediscover_after_days: 14
+
+# On the very first run, jobs with no published date can't be judged for recency,
+# so they are remembered silently instead of being reported.
+seed_undated_on_first_run: true
+
+# Keep this many days of matches on the report page.
+history_days: 30
