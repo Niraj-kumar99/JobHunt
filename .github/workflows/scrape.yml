@@ -1,0 +1,52 @@
+name: Job scraper
+
+on:
+  schedule:
+    - cron: "17 5 * * *"      # every day at 05:17 UTC (07:17 Berlin in summer)
+  workflow_dispatch:           # adds the "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: job-scraper
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Scan careers pages
+        run: python -m jobbot run
+
+      - name: Save seen jobs and reports
+        if: always()
+        run: |
+          git config user.name "job-scraper-bot"
+          git config user.email "job-scraper-bot@users.noreply.github.com"
+          git add data docs output || true
+          git diff --cached --quiet || git commit -m "Job scan $(date -u +%F)"
+          git pull --rebase --autostash || true
+          git push
+
+      - name: Upload spreadsheet
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: job-matches
+          path: |
+            output/job_matches.xlsx
+            output/new_matches.csv
+            docs/index.html
+          retention-days: 14
