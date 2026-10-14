@@ -146,13 +146,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Aviva": {
-  "ats": "generic",
-  "checked": "2026-10-13",
-  "id": "https://careers.aviva.co.uk/",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "BAE Systems": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -1252,13 +1245,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Rolls-Royce": {
-  "ats": "generic",
-  "checked": "2026-10-12",
-  "id": "https://careers.rolls-royce.com/en",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "Ryanair": {
   "ats": "successfactors",
   "checked": "2026-10-12",
@@ -1278,6 +1264,13 @@
   "checked": "2026-10-12",
   "id": "https://sebgroup.com/career",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "SES": {
+  "ats": "successfactors",
+  "checked": "2026-10-14",
+  "id": "careers.ses.com",
+  "note": "SuccessFactors career site",
   "ok": true
  },
  "SKF": {
