@@ -1245,6 +1245,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Rolls-Royce": {
+  "ats": "generic",
+  "checked": "2026-10-15",
+  "id": "https://careers.rolls-royce.com/en",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
  "Ryanair": {
   "ats": "successfactors",
   "checked": "2026-10-12",
@@ -1558,13 +1565,6 @@
   "checked": "2026-10-12",
   "id": "unilever.wd3.myworkdayjobs.com|unilever|Unilever_Experienced_Professionals",
   "note": "found on careers page",
-  "ok": true
- },
- "Veolia": {
-  "ats": "generic",
-  "checked": "2026-10-12",
-  "id": "https://www.veolia.com/en/careers",
-  "note": "no job platform detected; reading page directly",
   "ok": true
  },
  "Veriff": {
