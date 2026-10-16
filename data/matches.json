@@ -1,1 +1,32 @@
-[]
+[
+ {
+  "company": "Danske Bank",
+  "date_is_first_seen": true,
+  "experience": "entry-level title",
+  "found_on": "2026-10-16",
+  "hq_country": "Denmark",
+  "key": "0c1b58e879e2a5b1",
+  "location": "",
+  "notes": "location not stated",
+  "posted": "2026-10-16",
+  "sector": "Banking",
+  "source": "generic",
+  "title": "15 okt 2026 | LT Project Coordinator in Markets Services",
+  "url": "https://ejqi.fa.ocs.oraclecloud.eu/hcmUI/CandidateExperience/en/sites/CX_1001/job/25010"
+ },
+ {
+  "company": "BT Group",
+  "date_is_first_seen": false,
+  "experience": "entry-level title",
+  "found_on": "2026-10-16",
+  "hq_country": "United Kingdom",
+  "key": "f4b464986529fee4",
+  "location": "GB",
+  "notes": "",
+  "posted": "2026-10-15",
+  "sector": "Telecom",
+  "source": "successfactors",
+  "title": "Junior Project Manager",
+  "url": "https://jobs.bt.com/BT/job/Junior-Project-Manager/1374983257/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS"
+ }
+]

@@ -545,13 +545,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Feedzai": {
-  "ats": "generic",
-  "checked": "2026-10-12",
-  "id": "https://careers.feedzai.com/",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "Ferrovial": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -1719,13 +1712,6 @@
   "checked": "2026-10-12",
   "id": "steeleurope.wd3.myworkdayjobs.com|steeleurope|Job_Board",
   "note": "found via job search page",
-  "ok": true
- },
- "Ørsted": {
-  "ats": "generic",
-  "checked": "2026-10-12",
-  "id": "https://orsted.com/en/careers",
-  "note": "no job platform detected; reading page directly",
   "ok": true
  },
  "Škoda Auto": {
