@@ -1028,6 +1028,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "OutSystems": {
+  "ats": "workday",
+  "checked": "2026-10-18",
+  "id": "outsystems.wd503.myworkdayjobs.com|outsystems|OutSystems",
+  "note": "found via job search page",
+  "ok": true
+ },
  "PKO Bank Polski": {
   "ats": "generic",
   "checked": "2026-10-12",
