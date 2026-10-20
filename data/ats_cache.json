@@ -146,6 +146,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Aviva": {
+  "ats": "generic",
+  "checked": "2026-10-20",
+  "id": "https://careers.aviva.co.uk/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
  "BAE Systems": {
   "ats": "generic",
   "checked": "2026-10-12",
