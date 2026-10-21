@@ -146,13 +146,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Aviva": {
-  "ats": "generic",
-  "checked": "2026-10-20",
-  "id": "https://careers.aviva.co.uk/",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "BAE Systems": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -984,6 +977,13 @@
   "checked": "2026-10-12",
   "id": "https://www.novonordisk.com/careers.html",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Novonesis": {
+  "ats": "workday",
+  "checked": "2026-10-21",
+  "id": "novonesis.wd103.myworkdayjobs.com|novonesis|Novonesis_Careers",
+  "note": "found via job search page",
   "ok": true
  },
  "ORLEN": {
