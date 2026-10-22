@@ -1427,13 +1427,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Spotify": {
-  "ats": "generic",
-  "checked": "2026-10-12",
-  "id": "https://www.lifeatspotify.com/jobs",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "Standard Chartered": {
   "ats": "successfactors",
   "checked": "2026-10-12",
@@ -1550,13 +1543,6 @@
   "ats": "generic",
   "checked": "2026-10-12",
   "id": "https://www.ubisoft.com/en-us/company/careers",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Umicore": {
-  "ats": "generic",
-  "checked": "2026-10-12",
-  "id": "https://www.umicore.com/en/careers/",
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
