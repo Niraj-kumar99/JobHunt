@@ -1,4 +1,11 @@
 {
+ "AB InBev": {
+  "ats": "generic",
+  "checked": "2026-10-24",
+  "id": "https://www.ab-inbev.com/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
  "ABB": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -1221,13 +1228,6 @@
   "ats": "generic",
   "checked": "2026-10-12",
   "id": "https://www.rheinmetall.com/en/career/career-overview",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Rimac Group": {
-  "ats": "generic",
-  "checked": "2026-10-12",
-  "id": "https://careers.rimac-group.com",
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
