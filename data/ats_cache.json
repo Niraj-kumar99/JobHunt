@@ -97,6 +97,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Alstom": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "jobsearch.alstom.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "Amadeus": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -132,6 +139,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Atlas Copco": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "www.jobs.atlascopcogroup.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "Audi": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -144,6 +158,13 @@
   "checked": "2026-10-12",
   "id": "https://www.baesystems.com/en/careers",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "BASF": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "basf.jobs",
+  "note": "SuccessFactors career site",
   "ok": true
  },
  "BBC": {
@@ -244,11 +265,25 @@
   "note": "found via job search page",
   "ok": true
  },
+ "CRH": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "jobs.crh.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "Capgemini": {
   "ats": "generic",
   "checked": "2026-10-12",
   "id": "https://www.capgemini.com/careers/",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Carlsberg": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "careers.carlsberg.com",
+  "note": "SuccessFactors career site",
   "ok": true
  },
  "Celonis": {
@@ -270,6 +305,13 @@
   "checked": "2026-10-12",
   "id": "https://www.collibra.com/company/careers",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Coloplast": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "careers.coloplast.com",
+  "note": "SuccessFactors career site",
   "ok": true
  },
  "Compass Group": {
@@ -426,6 +468,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "EDP": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "jobs.edp.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "Enel": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -445,6 +494,13 @@
   "checked": "2026-10-12",
   "id": "https://www.eni.com/en-IT/careers.html",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Epiroc": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "www.careerprofile.epiroc.com",
+  "note": "SuccessFactors career site",
   "ok": true
  },
  "Equinor": {
@@ -671,6 +727,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Jaguar Land Rover": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "www.jaguarlandrovercareers.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "Jerónimo Martins": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -811,6 +874,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Mapfre": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "jobs.mapfre.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "Marks & Spencer": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -921,13 +991,6 @@
   "checked": "2026-10-21",
   "id": "novonesis.wd103.myworkdayjobs.com|novonesis|Novonesis_Careers",
   "note": "found via job search page",
-  "ok": true
- },
- "ORLEN": {
-  "ats": "generic",
-  "checked": "2026-10-12",
-  "id": "https://www.orlen.pl/en/career",
-  "note": "no job platform detected; reading page directly",
   "ok": true
  },
  "Ocado Group": {
@@ -1119,6 +1182,13 @@
   "note": "SuccessFactors career site",
   "ok": true
  },
+ "Reckitt": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "careers.reckitt.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "Red Bull": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -1210,6 +1280,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "SES": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "careers.ses.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "SKF": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -1278,6 +1355,13 @@
   "checked": "2026-10-12",
   "id": "https://schibsted.com/career/",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Schindler": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "job.schindler.com",
+  "note": "SuccessFactors career site",
   "ok": true
  },
  "Shell": {
@@ -1504,6 +1588,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Vestas": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "careers.vestas.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "Vinci": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -1525,10 +1616,24 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Volvo Cars": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "jobs.volvocars.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "Volvo Group": {
   "ats": "successfactors",
   "checked": "2026-10-12",
   "id": "jobs.volvogroup.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Vonovia": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "jobs.vonovia.de",
   "note": "SuccessFactors career site",
   "ok": true
  },
@@ -1560,6 +1665,27 @@
   "note": "found on careers page",
   "ok": true
  },
+ "Wärtsilä": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "careers.wartsila.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "Yara": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "jobs.yara.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "ZF Friedrichshafen": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "jobs.zf.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "Zalando": {
   "ats": "generic",
   "checked": "2026-10-12",
@@ -1571,6 +1697,13 @@
   "ats": "successfactors",
   "checked": "2026-10-12",
   "id": "www.careers.zurich.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "adidas": {
+  "ats": "successfactors",
+  "checked": "2026-10-26",
+  "id": "jobs.adidas-group.com",
   "note": "SuccessFactors career site",
   "ok": true
  },
