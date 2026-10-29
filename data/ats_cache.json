@@ -1511,13 +1511,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "TotalEnergies": {
-  "ats": "generic",
-  "checked": "2026-10-27",
-  "id": "https://totalenergies.com/careers",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "Trade Republic": {
   "ats": "generic",
   "checked": "2026-10-27",

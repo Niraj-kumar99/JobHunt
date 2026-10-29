@@ -4,20 +4,20 @@ ABB,Switzerland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScri
 ABN AMRO,Netherlands,,error,0,0,0,0,,"RetryError: HTTPSConnectionPool(host='www.abnamro.com', port=443): Max retries exceeded with url: /en/careers (Caused by ResponseError('too many 503 error responses'))",
 Acciona,Spain,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.acciona.com/careers,
 Accor,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.accor.com/
-adidas,Germany,successfactors,ok,49,0,0,0,,remembered,jobs.adidas-group.com
+adidas,Germany,successfactors,ok,30,0,0,0,,remembered,jobs.adidas-group.com
 Admiral Group,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.admiraljobs.co.uk/
 Adyen,Netherlands,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.adyen.com/
 Ahold Delhaize,Netherlands,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://aholddelhaize.com/careers/
-Air Liquide,France,workday,ok,397,19,2,0,"not in English: 1, outside Europe: 1",remembered,airliquidehr.wd3.myworkdayjobs.com|airliquidehr|AirLiquideExternalCareer
+Air Liquide,France,workday,ok,398,19,0,0,,remembered,airliquidehr.wd3.myworkdayjobs.com|airliquidehr|AirLiquideExternalCareer
 airBaltic,Latvia,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.airbaltic.com/en
 Airbus,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.airbus.com/en/careers
 Aker BP,Norway,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://akerbp.com/en/careers/,
 AkzoNobel,Netherlands,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.akzonobel.com/en/careers
-Alcon,Switzerland,,error,0,0,0,0,,"SSLError: HTTPSConnectionPool(host='careers.alcon.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING",
+Alcon,Switzerland,,error,0,0,0,0,,"ConnectTimeout: HTTPSConnectionPool(host='careers.alcon.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='careers.alcon.co",
 Aleph Alpha,Germany,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://aleph-alpha.com/careers/,
 Allegro,Poland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.allegro.eu/
 Allianz,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.allianz.com/global/en
-Alstom,France,successfactors,ok,40,2,2,0,"experience: requires 8+ yrs: 1, experience: requires 3-5 yrs: 1",remembered,jobsearch.alstom.com
+Alstom,France,successfactors,ok,42,0,0,0,,remembered,jobsearch.alstom.com
 Amadeus,Spain,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://amadeus.com/en/careers/overview
 Andritz,Austria,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.andritz.com/group-en/careers
 Anglo American,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.angloamerican.com/careers
@@ -28,17 +28,17 @@ ASM International,Netherlands,generic,no jobs found,0,0,0,0,,page may need a bro
 ASML,Netherlands,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.asml.com/en/careers
 Assa Abloy,Sweden,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.assaabloy.com/group/en/careers,
 AstraZeneca,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.astrazeneca.com/
-Atlas Copco,Sweden,successfactors,ok,37,1,1,0,outside Europe: 1,remembered,www.jobs.atlascopcogroup.com
+Atlas Copco,Sweden,successfactors,ok,31,1,1,0,experience: requires 4-6 yrs: 1,remembered,www.jobs.atlascopcogroup.com
 Audi,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.audi.com/en/careers-at-audidriven-by-tech-driven-by-people-17124
-Aviva,United Kingdom,generic,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://careers.aviva.co.uk/,https://careers.aviva.co.uk/
+Aviva,United Kingdom,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://careers.aviva.co.uk/,
 AXA,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.axa.com/en
 Back Market,France,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.backmarket.com/en-us/careers,
 BAE Systems,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.baesystems.com/en/careers
-Barclays,United Kingdom,workday,ok,311,24,7,0,"outside Europe: 6, experience: no entry-level signal: 1",remembered,barclays.wd3.myworkdayjobs.com|barclays|External_Career_Site_Barclays
+Barclays,United Kingdom,workday,ok,313,25,5,0,"outside Europe: 3, experience: no entry-level signal: 1, experience: senior title: 1",remembered,barclays.wd3.myworkdayjobs.com|barclays|External_Career_Site_Barclays
 Barilla,Italy,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.barillagroup.com/en/careers/,
-BASF,Germany,successfactors,ok,30,0,0,0,,remembered,basf.jobs
+BASF,Germany,successfactors,ok,33,1,1,0,experience: requires 5+ yrs: 1,remembered,basf.jobs
 Bayer,Germany,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.bayer.com/en/career/,
-BBC,United Kingdom,successfactors,ok,29,1,0,0,,remembered,careers.bbc.co.uk
+BBC,United Kingdom,successfactors,ok,27,1,0,0,,remembered,careers.bbc.co.uk
 BBVA,Spain,workday,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://bbva.wd3.myworkdayjobs.com/wday/cxs/bbva/es/jobs,bbva.wd3.myworkdayjobs.com|bbva|es
 Beiersdorf,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.beiersdorf.com/career/overview
 Bitdefender,Romania,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.bitdefender.com/en-us/company/careers
@@ -48,46 +48,46 @@ BMW Group,Germany,,error,0,0,0,0,,"ConnectionError: HTTPSConnectionPool(host='ww
 BNP Paribas,France,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://group.bnpparibas/en/careers,
 Boehringer Ingelheim,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.boehringer-ingelheim.com/careers
 Bolt,Estonia,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://bolt.eu/en/careers/
-Booking.com,Netherlands,generic,ok,1,1,0,0,,remembered,https://careers.booking.com/
+Booking.com,Netherlands,generic,ok,2,2,1,0,experience: requires 3-5 yrs: 1,remembered,https://careers.booking.com/
 Booksy,Poland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://booksy.com/en-us/
-Bosch,Germany,smartrecruiters,ok,617,22,3,0,outside Europe: 3,remembered,BoschGroup
+Bosch,Germany,smartrecruiters,ok,622,23,2,2,,remembered,BoschGroup
 Bouygues,France,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.bouygues.com/en/careers/,
-BP,United Kingdom,workday,ok,229,3,0,0,,remembered,bpinternational.wd3.myworkdayjobs.com|bpinternational|bpCareers
-BT Group,United Kingdom,successfactors,ok,38,1,0,0,,remembered,jobs.bt.com
-bunq,Netherlands,recruitee,ok,21,2,0,0,,remembered,bunq
-Burberry,United Kingdom,successfactors,ok,33,1,0,0,,remembered,burberrycareers.com
+BP,United Kingdom,workday,ok,220,3,0,0,,remembered,bpinternational.wd3.myworkdayjobs.com|bpinternational|bpCareers
+BT Group,United Kingdom,successfactors,ok,36,2,1,0,experience: no entry-level signal: 1,remembered,jobs.bt.com
+bunq,Netherlands,recruitee,ok,22,2,0,0,,remembered,bunq
+Burberry,United Kingdom,successfactors,ok,36,1,0,0,,remembered,burberrycareers.com
 Cabify,Spain,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://cabify.com/en/careers,
 CaixaBank,Spain,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.caixabank.com/en/careers.html,
 Campari Group,Italy,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.camparigroup.com/en/careers,
 Capgemini,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.capgemini.com/careers/
-Carlsberg,Denmark,successfactors,ok,39,0,0,0,,remembered,careers.carlsberg.com
+Carlsberg,Denmark,successfactors,ok,38,0,0,0,,remembered,careers.carlsberg.com
 Carrefour,France,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.carrefour.com/en/careers,
-CD Projekt,Poland,smartrecruiters,ok,43,0,0,0,,remembered,CDPROJEKTRED
+CD Projekt,Poland,smartrecruiters,ok,42,0,0,0,,remembered,CDPROJEKTRED
 Celonis,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.celonis.com
 Coca-Cola HBC,Switzerland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.coca-colahellenic.com/en/careers
 Collibra,Belgium,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.collibra.com/company/careers
-Coloplast,Denmark,successfactors,ok,32,2,2,0,experience: senior title: 2,remembered,careers.coloplast.com
+Coloplast,Denmark,successfactors,ok,36,2,0,0,,remembered,careers.coloplast.com
 Commerzbank,Germany,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.commerzbank.de/karriere/,
 Compass Group,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.compass-group.com/en/careers.html
 Continental,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.continental.com/en/
-CRH,Ireland,successfactors,ok,33,0,0,0,,remembered,jobs.crh.com
-Criteo,France,workday,ok,61,3,0,0,,remembered,criteo.wd3.myworkdayjobs.com|criteo|Criteo_Career_Site
+CRH,Ireland,successfactors,ok,34,0,0,0,,remembered,jobs.crh.com
+Criteo,France,workday,ok,62,3,0,0,,remembered,criteo.wd3.myworkdayjobs.com|criteo|Criteo_Career_Site
 Crédit Agricole,France,,error,0,0,0,0,,"ConnectionError: HTTPSConnectionPool(host='jobs.credit-agricole.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""HTTPSConnection(host='jobs.cred",
 Danone,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.danone.com/en-global/home.html
 Danske Bank,Denmark,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://danskebank.com/careers
-Darktrace,United Kingdom,workday,ok,74,3,0,0,,remembered,darktrace.wd3.myworkdayjobs.com|darktrace|DarktaceExternal
+Darktrace,United Kingdom,workday,ok,75,3,0,0,,remembered,darktrace.wd3.myworkdayjobs.com|darktrace|DarktaceExternal
 Dassault Aviation,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.dassault-aviation.com/en/group/careers/
 Dassault Systèmes,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.3ds.com/careers
 Decathlon,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://joinus.decathlon.fr/en/annonces
 DeepL,Germany,ashby,ok,9,0,0,0,,remembered,DeepL
-Deliveroo,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.deliveroo.co.uk/
-Delivery Hero,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.deliveryhero.com/
+Deliveroo,United Kingdom,generic,ok,1,1,1,0,experience: no entry-level signal: 1,remembered,https://careers.deliveroo.co.uk/
+Delivery Hero,Germany,generic,ok,2,2,2,0,"experience: senior title: 1, experience: requires 3+ yrs: 1",remembered,https://careers.deliveryhero.com/
 Deutsche Bahn,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://db.jobs/de-de
 Deutsche Bank,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.db.com/
 Deutsche Börse,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.deutsche-boerse.com
 Deutsche Telekom,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.telekom.com/en/telekom-as-an-employer
 DHL Group,Germany,generic,ok,1,1,0,0,,remembered,https://careers.dhl.com/amer/en
-Diageo,United Kingdom,workday,ok,221,2,0,0,,remembered,diageo.wd3.myworkdayjobs.com|diageo|Diageo_Careers
+Diageo,United Kingdom,workday,ok,220,2,0,0,,remembered,diageo.wd3.myworkdayjobs.com|diageo|Diageo_Careers
 DNB,Norway,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.dnb.no/en/about-us/careers
 Docplanner,Poland,,error,0,0,0,0,,"RetryError: HTTPSConnectionPool(host='careers.docplanner.com', port=443): Max retries exceeded with url: / (Caused by ResponseError('too many 502 error responses'))",
 Doctolib,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.doctolib.com/
@@ -95,13 +95,13 @@ DSM-Firmenich,Switzerland,generic,no jobs found,0,0,0,0,,page may need a browser
 DSV,Denmark,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.dsv.com/en/careers
 E.ON,Germany,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.eon.com/en/about-us/careers.html,
 EDF,France,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.edf.fr/en/the-edf-group/dedicated-sections/careers,
-EDP,Portugal,successfactors,ok,43,0,0,0,,remembered,jobs.edp.com
+EDP,Portugal,successfactors,ok,39,0,0,0,,remembered,jobs.edp.com
 Electrolux,Sweden,,error,0,0,0,0,,"ConnectionError: HTTPSConnectionPool(host='www.electroluxgroup.com', port=443): Max retries exceeded with url: /en/careers/ (Caused by ReadTimeoutError(""HTTPSConnectionPool(host",
-Enel,Italy,generic,ok,1,1,1,0,experience: no entry-level signal: 1,remembered,https://jobs.enel.com/en_US/careers
-Engie,France,successfactors,ok,48,0,0,0,,remembered,jobs.engie.com
+Enel,Italy,generic,ok,1,1,0,0,,remembered,https://jobs.enel.com/en_US/careers
+Engie,France,successfactors,ok,45,1,1,0,not in English: 1,remembered,jobs.engie.com
 Eni,Italy,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.eni.com/en-IT/careers.html
-Epiroc,Sweden,successfactors,ok,33,0,0,0,,remembered,www.careerprofile.epiroc.com
-Equinor,Norway,workday,ok,4,0,0,0,,remembered,equinor.wd3.myworkdayjobs.com|equinor|EQNR
+Epiroc,Sweden,successfactors,ok,34,1,1,0,experience: senior title: 1,remembered,www.careerprofile.epiroc.com
+Equinor,Norway,workday,ok,5,0,0,0,,remembered,equinor.wd3.myworkdayjobs.com|equinor|EQNR
 Ericsson,Sweden,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.ericsson.com/en/careers
 Erste Group,Austria,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.erstegroup.com/en/career
 EssilorLuxottica,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.essilorluxottica.com/en/careers/
@@ -122,7 +122,7 @@ Genmab,Denmark,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScrip
 Givaudan,Switzerland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.givaudan.com/careers
 Glencore,Switzerland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.glencore.com/en/careers
 Glovo,Spain,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://about.glovoapp.com/careers/
-GoCardless,United Kingdom,greenhouse,ok,23,0,0,0,,remembered,gocardless
+GoCardless,United Kingdom,greenhouse,ok,25,0,0,0,,remembered,gocardless
 Google DeepMind,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://deepmind.google/careers/
 Grifols,Spain,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.grifols.com/en/careers
 GSK,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.gsk.com/en-gb/careers/
@@ -139,14 +139,14 @@ HSBC,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (Java
 Iberdrola,Spain,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.iberdrola.com/careers,
 IKEA,Sweden,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.ikea.com/en
 Inditex,Spain,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.inditexpeople.com/,
-Indra,Spain,successfactors,ok,55,3,0,0,,remembered,careers.indragroup.com
+Indra,Spain,successfactors,ok,55,3,1,0,not in English: 1,remembered,careers.indragroup.com
 Infineon Technologies,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.infineon.com/careers
-Infobip,Croatia,workday,ok,142,6,0,0,,remembered,infobip.wd3.myworkdayjobs.com|infobip|InfobipCareers
+Infobip,Croatia,workday,ok,141,6,0,0,,remembered,infobip.wd3.myworkdayjobs.com|infobip|InfobipCareers
 ING,Netherlands,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.ing.com/en
 InPost,Poland,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://inpost.pl/kariera,
-Intercom,Ireland,greenhouse,ok,101,8,1,0,older than limit: 1,remembered,intercom
+Intercom,Ireland,greenhouse,ok,103,8,1,0,experience: senior title: 1,remembered,intercom
 Intesa Sanpaolo,Italy,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://group.intesasanpaolo.com/en/careers
-Jaguar Land Rover,United Kingdom,successfactors,ok,30,0,0,0,,remembered,www.jaguarlandrovercareers.com
+Jaguar Land Rover,United Kingdom,successfactors,ok,31,0,0,0,,remembered,www.jaguarlandrovercareers.com
 Jerónimo Martins,Portugal,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.jeronimomartins.com/en/careers/
 Just Eat Takeaway.com,Netherlands,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.justeattakeaway.com/global/en
 KBC Group,Belgium,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.kbc.com/en/careers.html,
@@ -163,7 +163,7 @@ Lavazza,Italy,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: ht
 Legal & General,United Kingdom,,error,0,0,0,0,,"ConnectionError: HTTPSConnectionPool(host='www.legalandgeneralgroup.com', port=443): Max retries exceeded with url: /careers/ (Caused by NewConnectionError(""HTTPSConnection(host",
 LEGO Group,Denmark,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.lego.com/en-us/careers,
 Legrand,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.legrand.com/en/working-at-legrand
-Leonardo,Italy,workday,ok,354,23,1,1,,remembered,leonardocompany.wd3.myworkdayjobs.com|leonardocompany|LeonardoCareerSite
+Leonardo,Italy,workday,ok,358,25,3,0,"experience: no entry-level signal: 2, experience: senior title: 1",remembered,leonardocompany.wd3.myworkdayjobs.com|leonardocompany|LeonardoCareerSite
 Lidl,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.lidl.com/
 Lloyds Banking Group,United Kingdom,workday,ok,40,1,0,0,,remembered,lbg.wd3.myworkdayjobs.com|lbg|lbg_Careers
 Logitech,Switzerland,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.logitech.com/en-us/about/careers,
@@ -180,17 +180,17 @@ Marks & Spencer,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a br
 Mercedes-Benz Group,Germany,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://group.mercedes-benz.com/careers/,
 Merck KGaA,Germany,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.merckgroup.com/en/careers.html,
 Michelin,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.michelinman.com/
-Mistral AI,France,ashby,ok,226,10,0,0,,remembered,mistral.ai
+Mistral AI,France,ashby,ok,227,10,0,0,,remembered,mistral.ai
 MOL Group,Hungary,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://molgroup.info/en/careers,
-Mollie,Netherlands,ashby,ok,51,2,0,0,,remembered,Mollie
+Mollie,Netherlands,ashby,ok,52,2,0,0,,remembered,Mollie
 Moncler,Italy,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.monclergroup.com/en/careers,
 Monzo,United Kingdom,greenhouse,ok,67,5,0,0,,remembered,monzo
-Munich Re,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.munichre.com/en/munichre
+Munich Re,Germany,generic,ok,1,1,1,0,experience: requires 3+ yrs: 1,remembered,https://careers.munichre.com/en/munichre
 N26,Germany,greenhouse,ok,32,2,0,0,,remembered,n26
 National Grid,United Kingdom,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.nationalgrid.com/careers,
 Naturgy,Spain,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.naturgy.com/en/careers,
 NatWest Group,United Kingdom,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://jobs.natwestgroup.com/,
-Neste,Finland,successfactors,ok,21,1,0,0,,remembered,jobs.neste.com
+Neste,Finland,successfactors,ok,21,0,0,0,,remembered,jobs.neste.com
 Nestlé,Switzerland,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.nestle.com/jobs,
 Nokia,Finland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.nokia.com/careers/
 Nord Security,Lithuania,generic,ok,11,11,0,0,,remembered,https://nordsecurity.com/careers/
@@ -198,10 +198,10 @@ Nordea,Finland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScrip
 Norsk Hydro,Norway,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.hydro.com/en/careers/,
 Novartis,Switzerland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.novartis.com/careers
 Novo Nordisk,Denmark,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.novonordisk.com/careers.html
-Novonesis,Denmark,workday,ok,84,4,0,0,,remembered,novonesis.wd103.myworkdayjobs.com|novonesis|Novonesis_Careers
+Novonesis,Denmark,workday,ok,82,3,0,0,,remembered,novonesis.wd103.myworkdayjobs.com|novonesis|Novonesis_Careers
 NXP Semiconductors,Netherlands,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.nxp.com/company/about-nxp/careers:CAREERS,
-Ocado Group,United Kingdom,greenhouse,ok,54,1,1,0,experience: senior title: 1,remembered,ocadogroup
-Octopus Energy,United Kingdom,lever,ok,169,1,0,0,,remembered,octoenergy
+Ocado Group,United Kingdom,greenhouse,ok,54,1,0,0,,remembered,ocadogroup
+Octopus Energy,United Kingdom,lever,ok,168,1,0,0,,remembered,octoenergy
 Odoo,Belgium,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.odoo.com/jobs
 OMV,Austria,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.omv.com/en/careers,
 On,Switzerland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://culture.on.com/
@@ -209,12 +209,12 @@ Orange,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript
 Orkla,Norway,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.orkla.com/careers/,
 ORLEN,Poland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.orlen.pl/en/career
 Otto Group,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.ottogroup.com/en/careers/
-OutSystems,Portugal,workday,ok,65,0,0,0,,remembered,outsystems.wd503.myworkdayjobs.com|outsystems|OutSystems
+OutSystems,Portugal,workday,ok,66,0,0,0,,remembered,outsystems.wd503.myworkdayjobs.com|outsystems|OutSystems
 Pandora,Denmark,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.pandoragroup.com/en-gb/
 Partners Group,Switzerland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.partnersgroup.com/en/careers/welcome
 Pernod Ricard,France,workday,ok,224,11,0,0,,remembered,pernodricard.wd3.myworkdayjobs.com|pernodricard|pernod-ricard
 Personio,Germany,,error,0,0,0,0,,"RetryError: HTTPSConnectionPool(host='www.personio.com', port=443): Max retries exceeded with url: /about-personio/careers/ (Caused by ResponseError('too many 429 error res",
-Philips,Netherlands,workday,ok,377,49,4,0,outside Europe: 4,remembered,philips.wd3.myworkdayjobs.com|philips|jobs-and-careers
+Philips,Netherlands,workday,ok,379,49,2,0,"outside Europe: 1, experience: senior title: 1",remembered,philips.wd3.myworkdayjobs.com|philips|jobs-and-careers
 Picnic,Netherlands,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.picnic.app/en/
 Pipedrive,Estonia,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.pipedrive.com/en/jobs
 Pirelli,Italy,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://corporate.pirelli.com/corporate/en-ww/careers/careers
@@ -230,48 +230,48 @@ Prysmian,Italy,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScrip
 Publicis Groupe,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.publicisgroupe.com/jobs
 Puma,Germany,workday,ok,313,10,0,0,,remembered,puma.wd502.myworkdayjobs.com|puma|Jobs_at_Puma
 PZU,Poland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.pzu.pl/kariera
-Qonto,France,ashby,ok,43,3,0,0,,remembered,qonto
+Qonto,France,ashby,ok,45,3,0,0,,remembered,qonto
 Rabobank,Netherlands,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.rabobank.jobs/en,
-Raiffeisen Bank International,Austria,successfactors,ok,43,0,0,0,,remembered,jobs.rbinternational.com
+Raiffeisen Bank International,Austria,successfactors,ok,42,0,0,0,,remembered,jobs.rbinternational.com
 Randstad,Netherlands,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.randstad.com/careers/,
-Reckitt,United Kingdom,successfactors,ok,32,2,1,0,experience: senior title: 1,remembered,careers.reckitt.com
+Reckitt,United Kingdom,successfactors,ok,29,2,0,0,,remembered,careers.reckitt.com
 Red Bull,Austria,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.redbull.com/us-en
 RELX,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.relx.com/careers
 Renault Group,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.renaultgroup.com/en/careers/
-Repsol,Spain,workday,ok,41,2,0,0,,remembered,repsol.wd3.myworkdayjobs.com|repsol|Repsol
+Repsol,Spain,workday,ok,43,2,0,0,,remembered,repsol.wd3.myworkdayjobs.com|repsol|Repsol
 Revolut,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.revolut.com/careers/
 Rheinmetall,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.rheinmetall.com/en/career/career-overview
 Richemont,Switzerland,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.richemont.com/careers/,
 Rimac Group,Croatia,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.rimac-group.com
 Rio Tinto,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.riotinto.com/careers
-Roche,Switzerland,workday,ok,304,32,5,0,"outside Europe: 3, experience: requires 5+ yrs: 1, experience: internship: 1",remembered,roche.wd3.myworkdayjobs.com|roche|roche-ext
+Roche,Switzerland,workday,ok,311,29,2,0,"experience: requires 5+ yrs: 1, outside Europe: 1",remembered,roche.wd3.myworkdayjobs.com|roche|roche-ext
 Rohlik Group,Czech Republic,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.rohlik.group/work-with-us
 Rolls-Royce,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.rolls-royce.com/en
 RWE,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.rwe.com/en/rwe-careers-portal/
-Ryanair,Ireland,successfactors,ok,63,0,0,0,,remembered,jobs.ryanair.com
+Ryanair,Ireland,successfactors,ok,60,0,0,0,,remembered,jobs.ryanair.com
 Saab,Sweden,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.saab.com/career
 Safran,France,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.safran-group.com/careers,
 Sage Group,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.sage.com/en-gb/company/careers/
 Sainsbury's,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.sainsburys.jobs/
 Saint-Gobain,France,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.saint-gobain.com/en/careers,
-Sandvik,Sweden,workday,ok,243,4,0,0,,remembered,sandvik.wd3.myworkdayjobs.com|sandvik|sandvik-jobs
+Sandvik,Sweden,workday,ok,250,4,0,0,,remembered,sandvik.wd3.myworkdayjobs.com|sandvik|sandvik-jobs
 Sanofi,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.sanofi.com/en
-Santander,Spain,workday,ok,266,6,1,0,outside Europe: 1,remembered,santander.wd3.myworkdayjobs.com|santander|SantanderCareers
-SAP,Germany,generic,ok,2,2,2,0,experience: no entry-level signal: 2,remembered,https://jobs.sap.com/en/
+Santander,Spain,workday,ok,261,6,0,0,,remembered,santander.wd3.myworkdayjobs.com|santander|SantanderCareers
+SAP,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.sap.com/en/
 Satispay,Italy,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.satispay.com/en-it/404/index.html
 Scania,Sweden,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.scania.com/group/en/home/career.html
 Schibsted,Norway,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://schibsted.com/career/
-Schindler,Switzerland,successfactors,ok,44,3,2,0,"not in English: 1, experience: requires 5+ yrs: 1",remembered,job.schindler.com
+Schindler,Switzerland,successfactors,ok,41,4,3,0,"experience: requires 5+ yrs: 1, experience: requires 3-5 yrs: 1, experience: no entry-level signal: 1",remembered,job.schindler.com
 Schneider Electric,France,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.se.com/ww/en/about-us/careers/overview.jsp,
 SEB,Sweden,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://sebgroup.com/career
-SES,Luxembourg,successfactors,ok,26,1,0,0,,remembered,careers.ses.com
+SES,Luxembourg,successfactors,ok,26,0,0,0,,remembered,careers.ses.com
 SGS,Switzerland,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.sgs.com/en/careers,
 Shell,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.shell.com/careers.html
 Siemens,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.siemens.com/en_US/externaljobs
 Siemens Energy,Germany,generic,ok,1,1,0,0,,remembered,https://jobs.siemens-energy.com/en_US/jobs
 Siemens Healthineers,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.siemens-healthineers.com/global/en
 Sika,Switzerland,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.sika.com/en/careers.html,
-Skeleton Technologies,Estonia,workable,ok,49,1,0,0,,remembered,skeletontech
+Skeleton Technologies,Estonia,workable,ok,39,1,0,0,,remembered,skeletontech
 SKF,Sweden,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.skf.com/group/careers
 Skroutz,Greece,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://corporate.skroutz.gr/kariera/,
 Smurfit Westrock,Ireland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.smurfitwestrock.com/careers
@@ -281,7 +281,7 @@ Sodexo,France,,error,0,0,0,0,,"ConnectionError: HTTPSConnectionPool(host='jobs.s
 Solvay,Belgium,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.solvay.com/en/career
 Sonae,Portugal,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.sonae.pt/en/careers/
 Spotify,Sweden,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.lifeatspotify.com/jobs
-Standard Chartered,United Kingdom,successfactors,ok,34,1,1,0,experience: requires 8-10 yrs: 1,remembered,jobs.standardchartered.com
+Standard Chartered,United Kingdom,successfactors,ok,33,1,1,0,experience: no entry-level signal: 1,remembered,jobs.standardchartered.com
 Stellantis,Netherlands,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.stellantis.com/en/careers,
 STMicroelectronics,Switzerland,,error,0,0,0,0,,"ConnectionError: HTTPSConnectionPool(host='www.st.com', port=443): Max retries exceeded with url: /content/st_com/en/about/careers.html (Caused by ReadTimeoutError(""HTTPSConnect",
 Stora Enso,Finland,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.storaenso.com/en/careers,
@@ -300,20 +300,20 @@ Tenaris,Luxembourg,generic,no jobs found,0,0,0,0,,page may need a browser (JavaS
 Terna,Italy,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.terna.it/en/careers
 Tesco,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.tesco.com/careers/en-GB
 Thales,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.thalesgroup.com/global/en
-thyssenkrupp,Germany,workday,ok,105,4,0,0,,remembered,thyssenkruppmaterialsna.wd12.myworkdayjobs.com|thyssenkruppmaterialsna|1
+thyssenkrupp,Germany,workday,ok,106,4,0,0,,remembered,thyssenkruppmaterialsna.wd12.myworkdayjobs.com|thyssenkruppmaterialsna|1
 TomTom,Netherlands,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.tomtom.com/careers/
-TotalEnergies,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://totalenergies.com/careers
+TotalEnergies,France,generic,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://totalenergies.com/careers,https://totalenergies.com/careers
 Trade Republic,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://traderepublic.com/en-de/about#career
 Ubisoft,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.ubisoft.com/en-us/company/careers
 UBS,Switzerland,,error,0,0,0,0,,HTTPError: 403 Client Error: Forbidden for url: https://www.ubs.com/global/en/careers.html,
 UCB,Belgium,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.ucb.com/global/en
 Umicore,Belgium,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.umicore.com/en/careers/
 UniCredit,Italy,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.unicreditgroup.eu/en/careers.html
-Unilever,United Kingdom,workday,ok,175,0,0,0,,remembered,unilever.wd3.myworkdayjobs.com|unilever|Unilever_Experienced_Professionals
+Unilever,United Kingdom,workday,ok,178,0,0,0,,remembered,unilever.wd3.myworkdayjobs.com|unilever|Unilever_Experienced_Professionals
 UPM,Finland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.upm.com/people-and-careers/
 Veolia,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.veolia.com/en/careers
 Veriff,Estonia,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.veriff.com/careers
-Vestas,Denmark,successfactors,ok,47,0,0,0,,remembered,careers.vestas.com
+Vestas,Denmark,successfactors,ok,61,0,0,0,,remembered,careers.vestas.com
 Vinci,France,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.vinci.com/en
 Vinted,Lithuania,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.vinted.com/
 Viva.com,Greece,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.viva.com/en-eu/careers,
@@ -321,17 +321,17 @@ Vodafone,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (
 voestalpine,Austria,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.voestalpine.com/group/en/career/,
 Volkswagen Group,Germany,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.volkswagen-group.com/en/careers,
 Volvo Cars,Sweden,successfactors,ok,27,1,1,0,experience: no entry-level signal: 1,remembered,jobs.volvocars.com
-Volvo Group,Sweden,successfactors,ok,37,2,1,0,experience: internship: 1,remembered,jobs.volvogroup.com
-Vonovia,Germany,successfactors,ok,44,0,0,0,,remembered,jobs.vonovia.de
+Volvo Group,Sweden,successfactors,ok,41,1,0,0,,remembered,jobs.volvogroup.com
+Vonovia,Germany,successfactors,ok,42,0,0,0,,remembered,jobs.vonovia.de
 Wise,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://wise.jobs/
 Wolt,Finland,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://careers.wolt.com/en
-Wolters Kluwer,Netherlands,workday,ok,310,39,0,0,,remembered,wk.wd3.myworkdayjobs.com|wk|External
+Wolters Kluwer,Netherlands,workday,ok,318,38,2,0,outside Europe: 2,remembered,wk.wd3.myworkdayjobs.com|wk|External
 WPP,United Kingdom,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.wpp.com/en/careers
-Wärtsilä,Finland,successfactors,ok,35,0,0,0,,remembered,careers.wartsila.com
-Yara,Norway,successfactors,ok,42,2,0,0,,remembered,jobs.yara.com
+Wärtsilä,Finland,successfactors,ok,31,0,0,0,,remembered,careers.wartsila.com
+Yara,Norway,successfactors,ok,39,1,0,0,,remembered,jobs.yara.com
 Zalando,Germany,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://jobs.zalando.com/en
-ZF Friedrichshafen,Germany,successfactors,ok,34,1,0,0,,remembered,jobs.zf.com
-Zurich Insurance Group,Switzerland,successfactors,ok,31,2,1,0,experience: no entry-level signal: 1,remembered,www.careers.zurich.com
+ZF Friedrichshafen,Germany,successfactors,ok,31,1,1,0,experience: no entry-level signal: 1,remembered,jobs.zf.com
+Zurich Insurance Group,Switzerland,successfactors,ok,38,1,0,0,,remembered,www.careers.zurich.com
 Ørsted,Denmark,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://orsted.com/en/careers
 ČEZ Group,Czech Republic,,error,0,0,0,0,,HTTPError: 404 Client Error: Not Found for url: https://www.cez.cz/en/careers,
 Škoda Auto,Czech Republic,generic,no jobs found,0,0,0,0,,page may need a browser (JavaScript); add the platform in companies.csv,https://www.skoda-auto.com/company/education
