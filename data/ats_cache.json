@@ -1217,13 +1217,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Rimac Group": {
-  "ats": "generic",
-  "checked": "2026-10-25",
-  "id": "https://careers.rimac-group.com",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "Rio Tinto": {
   "ats": "generic",
   "checked": "2026-10-27",
