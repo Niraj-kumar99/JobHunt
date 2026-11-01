@@ -153,6 +153,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Aviva": {
+  "ats": "generic",
+  "checked": "2026-11-01",
+  "id": "https://careers.aviva.co.uk/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
  "BAE Systems": {
   "ats": "generic",
   "checked": "2026-10-27",
@@ -554,7 +561,7 @@
  },
  "Feedzai": {
   "ats": "generic",
-  "checked": "2026-10-17",
+  "checked": "2026-11-01",
   "id": "https://careers.feedzai.com/",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -1217,6 +1224,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Rimac Group": {
+  "ats": "generic",
+  "checked": "2026-11-01",
+  "id": "https://careers.rimac-group.com",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
  "Rio Tinto": {
   "ats": "generic",
   "checked": "2026-10-27",
@@ -1562,7 +1576,7 @@
  },
  "Veolia": {
   "ats": "generic",
-  "checked": "2026-10-17",
+  "checked": "2026-11-01",
   "id": "https://www.veolia.com/en/careers",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -1723,7 +1737,7 @@
  },
  "Ørsted": {
   "ats": "generic",
-  "checked": "2026-10-17",
+  "checked": "2026-11-01",
   "id": "https://orsted.com/en/careers",
   "note": "no job platform detected; reading page directly",
   "ok": true
