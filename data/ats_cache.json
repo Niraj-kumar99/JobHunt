@@ -153,13 +153,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Aviva": {
-  "ats": "generic",
-  "checked": "2026-11-01",
-  "id": "https://careers.aviva.co.uk/",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "BAE Systems": {
   "ats": "generic",
   "checked": "2026-10-27",
@@ -1036,10 +1029,10 @@
   "ok": true
  },
  "OutSystems": {
-  "ats": "workday",
-  "checked": "2026-10-18",
-  "id": "outsystems.wd503.myworkdayjobs.com|outsystems|OutSystems",
-  "note": "found via job search page",
+  "ats": "generic",
+  "checked": "2026-11-02",
+  "id": "https://www.outsystems.com/careers",
+  "note": "no job platform detected; reading page directly",
   "ok": true
  },
  "PKO Bank Polski": {
