@@ -13,6 +13,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "ABN AMRO": {
+  "ats": "generic",
+  "checked": "2026-11-03",
+  "id": "https://www.abnamro.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
  "ASM International": {
   "ats": "generic",
   "checked": "2026-10-27",
@@ -510,13 +517,6 @@
   "note": "found on careers page",
   "ok": true
  },
- "Ericsson": {
-  "ats": "generic",
-  "checked": "2026-10-27",
-  "id": "https://www.ericsson.com/en/careers",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "Erste Group": {
   "ats": "generic",
   "checked": "2026-10-27",
@@ -535,13 +535,6 @@
   "ats": "generic",
   "checked": "2026-10-27",
   "id": "https://www.essity.com/careers",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Euroclear": {
-  "ats": "generic",
-  "checked": "2026-10-27",
-  "id": "https://www.euroclear.com/errors/en/404.html#https://www.euroclear.com/about/en/careers.html",
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
@@ -573,18 +566,18 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Fortum": {
+  "ats": "successfactors",
+  "checked": "2026-11-03",
+  "id": "jobs.fortum.com",
+  "note": "SuccessFactors career site",
+  "ok": true
+ },
  "GSK": {
   "ats": "generic",
   "checked": "2026-10-27",
   "id": "https://www.gsk.com/en-gb/careers/",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Galp": {
-  "ats": "successfactors",
-  "checked": "2026-10-27",
-  "id": "jobs.galp.com",
-  "note": "SuccessFactors career site",
   "ok": true
  },
  "Genmab": {
@@ -802,6 +795,13 @@
   "checked": "2026-10-27",
   "id": "https://careers.loreal.com/en",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "LEGO Group": {
+  "ats": "workday",
+  "checked": "2026-11-03",
+  "id": "lego.wd103.myworkdayjobs.com|lego|LEGO_External",
+  "note": "found on careers page",
   "ok": true
  },
  "LPP": {
@@ -1203,13 +1203,6 @@
   "note": "found on careers page",
   "ok": true
  },
- "Revolut": {
-  "ats": "generic",
-  "checked": "2026-10-27",
-  "id": "https://www.revolut.com/careers/",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "Rheinmetall": {
   "ats": "generic",
   "checked": "2026-10-27",
@@ -1291,13 +1284,6 @@
   "ats": "generic",
   "checked": "2026-10-27",
   "id": "https://www.saab.com/career",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Sage Group": {
-  "ats": "generic",
-  "checked": "2026-10-27",
-  "id": "https://www.sage.com/en-gb/company/careers/",
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
