@@ -1422,7 +1422,7 @@
  },
  "Spotify": {
   "ats": "generic",
-  "checked": "2026-10-23",
+  "checked": "2026-11-07",
   "id": "https://www.lifeatspotify.com/jobs",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -1548,7 +1548,7 @@
  },
  "Umicore": {
   "ats": "generic",
-  "checked": "2026-10-23",
+  "checked": "2026-11-07",
   "id": "https://www.umicore.com/en/careers/",
   "note": "no job platform detected; reading page directly",
   "ok": true
