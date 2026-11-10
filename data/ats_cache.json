@@ -106,7 +106,7 @@
  },
  "Alstom": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "jobsearch.alstom.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -148,7 +148,7 @@
  },
  "Atlas Copco": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "www.jobs.atlascopcogroup.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -169,7 +169,7 @@
  },
  "BASF": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "basf.jobs",
   "note": "SuccessFactors career site",
   "ok": true
@@ -274,7 +274,7 @@
  },
  "CRH": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "jobs.crh.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -288,7 +288,7 @@
  },
  "Carlsberg": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "careers.carlsberg.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -316,7 +316,7 @@
  },
  "Coloplast": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "careers.coloplast.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -477,7 +477,7 @@
  },
  "EDP": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "jobs.edp.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -501,13 +501,6 @@
   "checked": "2026-10-27",
   "id": "https://www.eni.com/en-IT/careers.html",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Epiroc": {
-  "ats": "successfactors",
-  "checked": "2026-10-26",
-  "id": "www.careerprofile.epiroc.com",
-  "note": "SuccessFactors career site",
   "ok": true
  },
  "Equinor": {
@@ -729,7 +722,7 @@
  },
  "Jaguar Land Rover": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "www.jaguarlandrovercareers.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -883,7 +876,7 @@
  },
  "Mapfre": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "jobs.mapfre.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1184,7 +1177,7 @@
  },
  "Reckitt": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "careers.reckitt.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1275,7 +1268,7 @@
  },
  "SES": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "careers.ses.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1345,7 +1338,7 @@
  },
  "Schindler": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "job.schindler.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1576,7 +1569,7 @@
  },
  "Vestas": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "careers.vestas.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1604,7 +1597,7 @@
  },
  "Volvo Cars": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "jobs.volvocars.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1618,7 +1611,7 @@
  },
  "Vonovia": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "jobs.vonovia.de",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1653,21 +1646,21 @@
  },
  "Wärtsilä": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "careers.wartsila.com",
   "note": "SuccessFactors career site",
   "ok": true
  },
  "Yara": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "jobs.yara.com",
   "note": "SuccessFactors career site",
   "ok": true
  },
  "ZF Friedrichshafen": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "jobs.zf.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1688,7 +1681,7 @@
  },
  "adidas": {
   "ats": "successfactors",
-  "checked": "2026-10-26",
+  "checked": "2026-11-10",
   "id": "jobs.adidas-group.com",
   "note": "SuccessFactors career site",
   "ok": true
