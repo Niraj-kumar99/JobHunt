@@ -1233,7 +1233,7 @@
  },
  "Rolls-Royce": {
   "ats": "generic",
-  "checked": "2026-10-30",
+  "checked": "2026-11-14",
   "id": "https://careers.rolls-royce.com/en",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -1492,7 +1492,7 @@
  },
  "TotalEnergies": {
   "ats": "generic",
-  "checked": "2026-10-30",
+  "checked": "2026-11-14",
   "id": "https://totalenergies.com/careers",
   "note": "no job platform detected; reading page directly",
   "ok": true
