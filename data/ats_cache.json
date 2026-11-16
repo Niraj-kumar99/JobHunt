@@ -174,25 +174,11 @@
   "note": "SuccessFactors career site",
   "ok": true
  },
- "BP": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "bpinternational.wd3.myworkdayjobs.com|bpinternational|bpCareers",
-  "note": "found on careers page",
-  "ok": true
- },
  "BT Group": {
   "ats": "successfactors",
   "checked": "2026-11-11",
   "id": "jobs.bt.com",
   "note": "SuccessFactors career site",
-  "ok": true
- },
- "Barclays": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "barclays.wd3.myworkdayjobs.com|barclays|External_Career_Site_Barclays",
-  "note": "found on careers page",
   "ok": true
  },
  "Beiersdorf": {
@@ -328,13 +314,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Criteo": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "criteo.wd3.myworkdayjobs.com|criteo|Criteo_Career_Site",
-  "note": "found on careers page",
-  "ok": true
- },
  "DHL Group": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -375,13 +354,6 @@
   "checked": "2026-11-11",
   "id": "https://danskebank.com/careers",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Darktrace": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "darktrace.wd3.myworkdayjobs.com|darktrace|DarktaceExternal",
-  "note": "found on careers page",
   "ok": true
  },
  "Dassault Aviation": {
@@ -454,13 +426,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Diageo": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "diageo.wd3.myworkdayjobs.com|diageo|Diageo_Careers",
-  "note": "found on careers page",
-  "ok": true
- },
  "Doctolib": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -496,13 +461,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Equinor": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "equinor.wd3.myworkdayjobs.com|equinor|EQNR",
-  "note": "found on careers page",
-  "ok": true
- },
  "Erste Group": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -533,7 +491,7 @@
  },
  "Feedzai": {
   "ats": "generic",
-  "checked": "2026-11-01",
+  "checked": "2026-11-16",
   "id": "https://careers.feedzai.com/",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -692,13 +650,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Infobip": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "infobip.wd3.myworkdayjobs.com|infobip|InfobipCareers",
-  "note": "found on careers page",
-  "ok": true
- },
  "Intercom": {
   "ats": "greenhouse",
   "checked": "2026-11-11",
@@ -790,13 +741,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "LEGO Group": {
-  "ats": "workday",
-  "checked": "2026-11-03",
-  "id": "lego.wd103.myworkdayjobs.com|lego|LEGO_External",
-  "note": "found on careers page",
-  "ok": true
- },
  "LPP": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -818,25 +762,11 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Leonardo": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "leonardocompany.wd3.myworkdayjobs.com|leonardocompany|LeonardoCareerSite",
-  "note": "found via job search page",
-  "ok": true
- },
  "Lidl": {
   "ats": "generic",
   "checked": "2026-11-11",
   "id": "https://careers.lidl.com/",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Lloyds Banking Group": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "lbg.wd3.myworkdayjobs.com|lbg|lbg_Careers",
-  "note": "found on careers page",
   "ok": true
  },
  "London Stock Exchange Group": {
@@ -965,20 +895,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Novonesis": {
-  "ats": "workday",
-  "checked": "2026-11-05",
-  "id": "novonesis.wd103.myworkdayjobs.com|novonesis|Novonesis_Careers",
-  "note": "found via job search page",
-  "ok": true
- },
- "ORLEN": {
-  "ats": "generic",
-  "checked": "2026-11-11",
-  "id": "https://www.orlen.pl/en/career",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "Ocado Group": {
   "ats": "greenhouse",
   "checked": "2026-11-11",
@@ -1056,20 +972,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Pernod Ricard": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "pernodricard.wd3.myworkdayjobs.com|pernodricard|pernod-ricard",
-  "note": "found on careers page",
-  "ok": true
- },
- "Philips": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "philips.wd3.myworkdayjobs.com|philips|jobs-and-careers",
-  "note": "found via job search page",
-  "ok": true
- },
  "Picnic": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -1133,13 +1035,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Puma": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "puma.wd502.myworkdayjobs.com|puma|Jobs_at_Puma",
-  "note": "found via job search page",
-  "ok": true
- },
  "Qonto": {
   "ats": "ashby",
   "checked": "2026-11-11",
@@ -1189,13 +1084,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Repsol": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "repsol.wd3.myworkdayjobs.com|repsol|Repsol",
-  "note": "found on careers page",
-  "ok": true
- },
  "Rheinmetall": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -1205,7 +1093,7 @@
  },
  "Rimac Group": {
   "ats": "generic",
-  "checked": "2026-11-01",
+  "checked": "2026-11-16",
   "id": "https://careers.rimac-group.com",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -1215,13 +1103,6 @@
   "checked": "2026-11-11",
   "id": "https://www.riotinto.com/careers",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Roche": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "roche.wd3.myworkdayjobs.com|roche|roche-ext",
-  "note": "found via job search page",
   "ok": true
  },
  "Rohlik Group": {
@@ -1287,25 +1168,11 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Sandvik": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "sandvik.wd3.myworkdayjobs.com|sandvik|sandvik-jobs",
-  "note": "found on careers page",
-  "ok": true
- },
  "Sanofi": {
   "ats": "generic",
   "checked": "2026-11-11",
   "id": "https://jobs.sanofi.com/en",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Santander": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "santander.wd3.myworkdayjobs.com|santander|SantanderCareers",
-  "note": "found on careers page",
   "ok": true
  },
  "Satispay": {
@@ -1539,16 +1406,9 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Unilever": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "unilever.wd3.myworkdayjobs.com|unilever|Unilever_Experienced_Professionals",
-  "note": "found on careers page",
-  "ok": true
- },
  "Veolia": {
   "ats": "generic",
-  "checked": "2026-11-01",
+  "checked": "2026-11-16",
   "id": "https://www.veolia.com/en/careers",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -1630,13 +1490,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Wolters Kluwer": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "wk.wd3.myworkdayjobs.com|wk|External",
-  "note": "found on careers page",
-  "ok": true
- },
  "Wärtsilä": {
   "ats": "successfactors",
   "checked": "2026-11-10",
@@ -1686,13 +1539,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "argenx": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "argenx.wd3.myworkdayjobs.com|argenx|External_Careers",
-  "note": "found on careers page",
-  "ok": true
- },
  "bunq": {
   "ats": "recruitee",
   "checked": "2026-11-11",
@@ -1700,16 +1546,9 @@
   "note": "found on careers page",
   "ok": true
  },
- "thyssenkrupp": {
-  "ats": "workday",
-  "checked": "2026-11-11",
-  "id": "steeleurope.wd3.myworkdayjobs.com|steeleurope|Job_Board",
-  "note": "found via job search page",
-  "ok": true
- },
  "Ørsted": {
   "ats": "generic",
-  "checked": "2026-11-01",
+  "checked": "2026-11-16",
   "id": "https://orsted.com/en/careers",
   "note": "no job platform detected; reading page directly",
   "ok": true
