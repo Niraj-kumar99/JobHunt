@@ -895,6 +895,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "ORLEN": {
+  "ats": "generic",
+  "checked": "2026-11-17",
+  "id": "https://www.orlen.pl/en/career",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
  "Ocado Group": {
   "ats": "greenhouse",
   "checked": "2026-11-11",
@@ -939,7 +946,7 @@
  },
  "OutSystems": {
   "ats": "generic",
-  "checked": "2026-11-02",
+  "checked": "2026-11-17",
   "id": "https://www.outsystems.com/careers",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -1403,13 +1410,6 @@
   "ats": "generic",
   "checked": "2026-11-11",
   "id": "https://www.unicreditgroup.eu/en/careers.html",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Veolia": {
-  "ats": "generic",
-  "checked": "2026-11-16",
-  "id": "https://www.veolia.com/en/careers",
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
