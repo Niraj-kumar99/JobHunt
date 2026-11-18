@@ -1,5 +1,35 @@
 [
  {
+  "company": "Vestas",
+  "date_is_first_seen": false,
+  "experience": "entry-level title",
+  "found_on": "2026-11-18",
+  "hq_country": "Denmark",
+  "key": "91a151c5c021d999",
+  "location": "Arnhem, GE, NL, 6842 BD",
+  "notes": "",
+  "posted": "2026-11-18",
+  "sector": "Wind energy",
+  "source": "successfactors",
+  "title": "Project Coordinator (f/m/d)",
+  "url": "https://careers.vestas.com/job/Arnhem-Project-Coordinator-%28fmd%29-GE-6842-BD/1449403633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS"
+ },
+ {
+  "company": "Bosch",
+  "date_is_first_seen": false,
+  "experience": "entry level",
+  "found_on": "2026-11-18",
+  "hq_country": "Germany",
+  "key": "04206cf14bfa46c9",
+  "location": "Braga, , Portugal",
+  "notes": "",
+  "posted": "2026-11-18",
+  "sector": "Industrial technology",
+  "source": "smartrecruiters",
+  "title": "R&D Engineer - Mechanical Project Manager | eBike (f/m/div.)",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162248984-r-d-engineer-mechanical-project-manager-ebike-f-m-div-"
+ },
+ {
   "company": "Qonto",
   "date_is_first_seen": false,
   "experience": "entry-level wording",

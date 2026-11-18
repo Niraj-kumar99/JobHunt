@@ -15,7 +15,7 @@
  },
  "ABN AMRO": {
   "ats": "generic",
-  "checked": "2026-11-03",
+  "checked": "2026-11-18",
   "id": "https://www.abnamro.com/en/careers",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -150,6 +150,13 @@
   "ats": "generic",
   "checked": "2026-11-11",
   "id": "https://www.audi.com/en/careers-at-audidriven-by-tech-driven-by-people-17124",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Aviva": {
+  "ats": "generic",
+  "checked": "2026-11-18",
+  "id": "https://careers.aviva.co.uk/",
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
@@ -512,7 +519,7 @@
  },
  "Fortum": {
   "ats": "successfactors",
-  "checked": "2026-11-03",
+  "checked": "2026-11-18",
   "id": "jobs.fortum.com",
   "note": "SuccessFactors career site",
   "ok": true
