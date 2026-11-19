@@ -8,13 +8,13 @@
  "002e209a5a7ebf47": {
   "company": "Mistral AI",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Program Manager, Engineering"
  },
  "003239d1355ff34b": {
   "company": "Nord Security",
   "first_seen": "2026-11-13",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Agentic Product Manager Â· Senior Â· Saily Saily Poland Remote Product"
  },
  "006a77ec09d79314": {
@@ -50,7 +50,7 @@
  "01c7f11c1d5453a9": {
   "company": "Coloplast",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Development Project Manager"
  },
  "01fb8757a9a91b9f": {
@@ -146,7 +146,7 @@
  "04206cf14bfa46c9": {
   "company": "Bosch",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "R&D Engineer - Mechanical Project Manager | eBike (f/m/div.)"
  },
  "0425bd7ed0734dc2": {
@@ -164,7 +164,7 @@
  "046c61bbea028f3f": {
   "company": "Repsol",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-17",
+  "last_seen": "2026-11-19",
   "title": "Senior Project Manager — High Voltage Execution"
  },
  "04bc5ba74974accb": {
@@ -254,7 +254,7 @@
  "063e017f13988715": {
   "company": "Mapfre",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Technical Product Manager - Guidewire Billing Center (Hybrid - Boston or Webster)"
  },
  "063fbd465bafffb9": {
@@ -278,7 +278,7 @@
  "068c7beccf98579d": {
   "company": "Nord Security",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Owner Â· Mid-Senior Â· Quality of Service Â· NordVPN NordVPN Vilnius / Kaunas Hybrid Engineering"
  },
  "06d0b4596f2bce91": {
@@ -308,7 +308,7 @@
  "0732388fb00b0927": {
   "company": "Intercom",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Manager (Growth)"
  },
  "07b2001136cb9529": {
@@ -320,8 +320,14 @@
  "07c1f7ece21b7ce9": {
   "company": "Qonto",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Staff Product Manager - Loans"
+ },
+ "07cfe9e9488543c5": {
+  "company": "Bosch",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Project Manager - Postponement Area"
  },
  "080cff0e31c9fb37": {
   "company": "Puma",
@@ -392,7 +398,7 @@
  "0b25028f22317372": {
   "company": "Puma",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-15",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Owner – Checkout"
  },
  "0b4bd8173822c26c": {
@@ -434,7 +440,7 @@
  "0c65fb0b73e9ea30": {
   "company": "Admiral Group",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "GenAI Product Manager (SDLC IT & Technology)"
  },
  "0c8013fa67e0e656": {
@@ -572,7 +578,7 @@
  "116da9cf5fb605f7": {
   "company": "Mistral AI",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager, Enterprise Controls"
  },
  "1193cf69d0e06bb2": {
@@ -686,7 +692,7 @@
  "153fed2a0078c519": {
   "company": "Monzo",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Staff Technical Program Manager, Operations"
  },
  "1616ff18cd1213a6": {
@@ -890,7 +896,7 @@
  "1ed2618a4cdd362f": {
   "company": "Bosch",
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Project Manager-AI"
  },
  "1ed540cf8a87fa09": {
@@ -971,6 +977,12 @@
   "last_seen": "2026-11-15",
   "title": "Project Manager"
  },
+ "21a1704808ca1973": {
+  "company": "Atlas Copco",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Business Analyst"
+ },
  "21e113d94a5cede5": {
   "company": "CRH",
   "first_seen": "2026-10-23",
@@ -988,6 +1000,12 @@
   "first_seen": "2026-10-12",
   "last_seen": "2026-11-10",
   "title": "Senior Project Manager"
+ },
+ "22ba2c706223732f": {
+  "company": "Bosch",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Deputy IT Product Owner - SAP Production to Stock ( P2S)"
  },
  "22ca5c21c812afdf": {
   "company": "Engie",
@@ -1085,6 +1103,12 @@
   "last_seen": "2026-11-05",
   "title": "Customer Project Manager"
  },
+ "26330dc655543805": {
+  "company": "Bosch",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Product Owner – ServiceNow Development and Test Automation (ATF)"
+ },
  "266bc03c9e3c6db5": {
   "company": "Booking.com",
   "first_seen": "2026-10-30",
@@ -1106,7 +1130,7 @@
  "2745fe3d4b73c891": {
   "company": "Bosch",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Project Manager - West Coast Customers, Vehicle Motion"
  },
  "2774816b1990586c": {
@@ -1118,7 +1142,7 @@
  "27953d96ef4fcb6e": {
   "company": "Volvo Group",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Property Project Manager"
  },
  "27f39156d0967d8b": {
@@ -1226,7 +1250,7 @@
  "2d0be24a0c320f7c": {
   "company": "Bosch",
   "first_seen": "2026-11-16",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "IT üzleti elemző | IT Business Analyst"
  },
  "2d75efe2dfb454a9": {
@@ -1340,7 +1364,7 @@
  "30d37d8e71613a9d": {
   "company": "Admiral Group",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "GenAI Product Manager (Pricing & Underwriting)"
  },
  "310190b0d67472f2": {
@@ -1526,7 +1550,7 @@
  "35f8247f3952248c": {
   "company": "Mapfre",
   "first_seen": "2026-10-17",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Technical Product Manager - Guidewire Billing Center (Hybrid - Boston or Webster)"
  },
  "3633923791c7039d": {
@@ -1568,7 +1592,7 @@
  "37b248da38ed4273": {
   "company": "BASF",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Project Manager (m/f/d)"
  },
  "37e3ddf8f1739a42": {
@@ -1604,7 +1628,7 @@
  "39266a7f59315088": {
   "company": "Mistral AI",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Program Manager, Science Operations, Code"
  },
  "3936beb651afec0e": {
@@ -1664,7 +1688,7 @@
  "3b236209234c9776": {
   "company": "Qonto",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Staff Product Manager - Accounting Europe - German speaking 🇩🇪"
  },
  "3b52ff687f4d575a": {
@@ -1694,7 +1718,7 @@
  "3b9a4a1755715795": {
   "company": "Lovable",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager (Security) Product • Stockholm • Full-time"
  },
  "3c87abf235ac30de": {
@@ -1790,7 +1814,7 @@
  "4104e929dfeec0c5": {
   "company": "Mistral AI",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Workplace Project Manager - Paris"
  },
  "411445757c40da37": {
@@ -2030,7 +2054,7 @@
  "497f0eba50589be3": {
   "company": "Alstom",
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-21",
+  "last_seen": "2026-11-19",
   "title": "Technical Project Manager (f/m/d)"
  },
  "49a189bec1a738bd": {
@@ -2108,7 +2132,7 @@
  "4bb48ecf6d62c860": {
   "company": "Puma",
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Creative Project Manager"
  },
  "4be8371e1e4c2a81": {
@@ -2414,7 +2438,7 @@
  "52ff69471da43e86": {
   "company": "Mistral AI",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager, Studio"
  },
  "530e0381a3d853ec": {
@@ -2480,7 +2504,7 @@
  "546b1d784b676abd": {
   "company": "Bosch",
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager, Embedded Financial Services (F.OS)_MPIN"
  },
  "547d363df099468f": {
@@ -2492,13 +2516,13 @@
  "551ea8ab4c1ab6aa": {
   "company": "Lloyds Banking Group",
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-16",
+  "last_seen": "2026-11-19",
   "title": "Digital Product Manager Apprentice - Edinburgh"
  },
  "55223552a1cca12c": {
   "company": "DHL Group",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Project Manager Jobs"
  },
  "5559cd374931a772": {
@@ -2633,6 +2657,12 @@
   "last_seen": "2026-11-10",
   "title": "Product Owner (Tax & Accounting)"
  },
+ "5971e7adacd5e45d": {
+  "company": "Bosch",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Sr. Product Owner – DevOps and Software Delivery"
+ },
  "5a0cd76c0a003c0d": {
   "company": "Barclays",
   "first_seen": "2026-10-27",
@@ -2684,7 +2714,7 @@
  "5bfceb2208196436": {
   "company": "Supercell",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager, Data Platform"
  },
  "5c3609d4d8bd4a61": {
@@ -2758,6 +2788,12 @@
   "first_seen": "2026-11-11",
   "last_seen": "2026-11-11",
   "title": "Project Manager & Power System Expert Grid Compliance Projects Management"
+ },
+ "5ed1405d462c5285": {
+  "company": "Novonesis",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Project Manager for site Hørsholm"
  },
  "5edce1964ba506f2": {
   "company": "Wolters Kluwer",
@@ -2846,7 +2882,7 @@
  "61778859d4825d84": {
   "company": "Puma",
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Finance Project Manager Process Automation"
  },
  "61b73ec8dca8b651": {
@@ -2996,7 +3032,7 @@
  "66b615d7685fd84a": {
   "company": "Mistral AI",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Program Manager, HPC"
  },
  "66b6db041b7c9f91": {
@@ -3062,13 +3098,13 @@
  "686695b6aaf7ee87": {
   "company": "Bosch",
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Product Owner - Robot Safety and Security (f/m/div.)"
  },
  "687464803b140baf": {
   "company": "Schindler",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Owner Customer Care Platform (m/w/d) 80-100%"
  },
  "687ef2817e29e93f": {
@@ -3094,6 +3130,12 @@
   "first_seen": "2026-10-27",
   "last_seen": "2026-10-27",
   "title": "Cross-Line of Business Underwriting Product Owner 80-100%"
+ },
+ "695123fb905a5d68": {
+  "company": "Novonesis",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Project Manager (Process Background)"
  },
  "696a25539ba5dbcf": {
   "company": "Wärtsilä",
@@ -3122,7 +3164,7 @@
  "6adae50b677e4541": {
   "company": "Engie",
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-21",
+  "last_seen": "2026-11-19",
   "title": "PROJECT MANAGER"
  },
  "6b441db23e81c7e4": {
@@ -3134,7 +3176,7 @@
  "6b4719e9ffc09c72": {
   "company": "Ocado Group",
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Principal Product Manager"
  },
  "6b60a2fb4f65ed62": {
@@ -3170,7 +3212,7 @@
  "6c3664a27ae665b4": {
   "company": "Lovable",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager (Agents) Product • Stockholm • Full-time"
  },
  "6c6927320eb0f8b2": {
@@ -3212,7 +3254,7 @@
  "6d2966c2201b7acc": {
   "company": "Bosch",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Project management trainee"
  },
  "6d51c961e81b288f": {
@@ -3224,13 +3266,13 @@
  "6da98fffabe75826": {
   "company": "N26",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-10-18",
+  "last_seen": "2026-11-19",
   "title": "Banking Complaints Project Manager"
  },
  "6db2c9e4c7a5e398": {
   "company": "Nord Security",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Marketing Project Manager Â· Mid-Senior Â· Coveron Coveron Vilnius Hybrid Product"
  },
  "6dc5c3793d216af8": {
@@ -3242,8 +3284,14 @@
  "6e7aa091d3653019": {
   "company": "bunq",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "(Senior) Product Owner"
+ },
+ "6ecd8a45b159b8dd": {
+  "company": "Bosch",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Product Manager"
  },
  "6eef1b90487e7ba3": {
   "company": "BT Group",
@@ -3305,6 +3353,12 @@
   "last_seen": "2026-10-19",
   "title": "Business Analyst"
  },
+ "7110ee7903b31224": {
+  "company": "Novonesis",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Supply Chain Business Analyst for Site Lyngby"
+ },
  "714f6ae2e2187935": {
   "company": "Zurich Insurance Group",
   "first_seen": "2026-10-28",
@@ -3332,7 +3386,7 @@
  "722188923800deef": {
   "company": "Nord Security",
   "first_seen": "2026-11-13",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Agentic Product Manager Â· Senior Â· Saily Saily Vilnius / Kaunas Hybrid Product"
  },
  "7303dc824631d1c6": {
@@ -3404,7 +3458,7 @@
  "75cf029bee887119": {
   "company": "Intercom",
   "first_seen": "2026-10-29",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Forward Deployed Product Manager (Dublin)"
  },
  "75d4914511a0c1dd": {
@@ -3416,7 +3470,7 @@
  "764052bd18ae6d05": {
   "company": "Intercom",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Staff AI Product Manager"
  },
  "7652f52439626e99": {
@@ -3428,7 +3482,7 @@
  "76672e80cd324936": {
   "company": "Bosch",
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "[BD] Senior IT Product Business Analyst (PO Assistant)"
  },
  "775cf7ebaf5c4f04": {
@@ -3464,7 +3518,7 @@
  "78137d372125ba5f": {
   "company": "Bosch",
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Product Owner - Robot-Factory Integration (f/m/div.)"
  },
  "78351575f7fe1041": {
@@ -3506,7 +3560,7 @@
  "790b9c103ea92cd3": {
   "company": "Bosch",
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "(JR / MID-LEVEL / SR) IT PROJECT ANALYST  - SCRUM MASTER / AGILE TEAM COACH"
  },
  "799565d4fc3a5176": {
@@ -3518,7 +3572,7 @@
  "79b1c5235ab76c0d": {
   "company": "Mollie",
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Manager - Business Banking"
  },
  "79e4c6645b4a3556": {
@@ -3554,7 +3608,7 @@
  "7af23fe0e444e582": {
   "company": "Lovable",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager (Identity & Access Management) Product • Stockholm • Full-time"
  },
  "7afb49f518aa5acf": {
@@ -3623,6 +3677,12 @@
   "last_seen": "2026-11-12",
   "title": "International Product Manager, Molecular Workarea"
  },
+ "7e6ea6c480092636": {
+  "company": "Wise",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Senior Product Manager â Payment integrations"
+ },
  "7e82ea1784d7584b": {
   "company": "Bosch",
   "first_seen": "2026-10-16",
@@ -3632,7 +3692,7 @@
  "7f008f106a7fecf1": {
   "company": "Criteo",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-17",
+  "last_seen": "2026-11-19",
   "title": "IT Business Analyst - R2R Oracle Fusion"
  },
  "7f3c2b2b5a7d8ead": {
@@ -3698,13 +3758,13 @@
  "81ce8cbd38e2a8e4": {
   "company": "Bosch",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Project Manager for Comfort Actuator Product"
  },
  "82662f004067ea07": {
   "company": "Bosch",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Associate _ Project Management Associate"
  },
  "834d86c46aa7bf51": {
@@ -3914,7 +3974,7 @@
  "8a93f68e81fe99cc": {
   "company": "Intercom",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Manager- Messenger"
  },
  "8aa0c5ae96181a72": {
@@ -3986,7 +4046,7 @@
  "8c55b1dd4192a20e": {
   "company": "Nord Security",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Marketing Project Manager Â· Mid-Senior Â· Saily Saily Vilnius / Kaunas Hybrid Marketing & Communications"
  },
  "8ce4a35ff1742ad2": {
@@ -4046,7 +4106,7 @@
  "8f076fc96c249f63": {
   "company": "Intercom",
   "first_seen": "2026-10-17",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Manager (Service Agent Team) "
  },
  "8f26f5fd9a416866": {
@@ -4118,7 +4178,7 @@
  "92fc64318b4fbbc3": {
   "company": "Volvo Group",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Experienced Project Manager"
  },
  "938028c6b198ef73": {
@@ -4166,7 +4226,7 @@
  "942d4ebefa9a32c0": {
   "company": "Intercom",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Manager, Messenger"
  },
  "951503a95d70af34": {
@@ -4190,7 +4250,7 @@
  "95760a1f498215a5": {
   "company": "Nord Security",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Owner Â· Mid-Senior Â· NordVPN Browser Extension NordVPN Vilnius / Kaunas Hybrid Product"
  },
  "95aed5822776be1a": {
@@ -4259,6 +4319,12 @@
   "last_seen": "2026-11-05",
   "title": "IT&D Senior Business Analyst, Rewards & Benefits"
  },
+ "97eeef3caa4ebbeb": {
+  "company": "Engie",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Business Analyst BESS"
+ },
  "9800bd93fa16529b": {
   "company": "Santander",
   "first_seen": "2026-10-12",
@@ -4280,7 +4346,7 @@
  "98875ebeb8e73371": {
   "company": "Bosch",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": " Regional Key Account / Project Manager"
  },
  "98dabc6a608e4948": {
@@ -4352,7 +4418,7 @@
  "9a4cdd7b258f4716": {
   "company": "Coloplast",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Manager, Downstream - Men's Health"
  },
  "9a4ed74706e42570": {
@@ -4376,7 +4442,7 @@
  "9b5989e8bb46910c": {
   "company": "Zurich Insurance Group",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Insurance Business Analyst Guidewire Billing Center"
  },
  "9b6413398164b5f9": {
@@ -4400,7 +4466,7 @@
  "9c32dfe1f6d08fa1": {
   "company": "Vestas",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Project Manager"
  },
  "9c56b01e9a2349d8": {
@@ -4418,7 +4484,7 @@
  "9c6c6f38b644fe03": {
   "company": "Supercell",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Principal Product Manager, Live Ops & Monetization, Hay Day"
  },
  "9c84f9c22ef96976": {
@@ -4432,6 +4498,12 @@
   "first_seen": "2026-10-12",
   "last_seen": "2026-10-23",
   "title": "Business Analyst -  Finance & Workforce Mgmt - RDT Diagnostics Business Operations"
+ },
+ "9ccbbf1ea8a9608b": {
+  "company": "Bosch",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Senior Product Manager (Multiple Positions) REF300615J"
  },
  "9d0dab54899e4d48": {
   "company": "Philips",
@@ -4448,7 +4520,7 @@
  "9d2a14554ac94fa2": {
   "company": "Fortum",
   "first_seen": "2026-11-03",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Project Manager"
  },
  "9d592afa2c935c9a": {
@@ -4604,7 +4676,7 @@
  "a3096d00ec1d209d": {
   "company": "Lovable",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager (Build Experience) Product • Stockholm • Full-time"
  },
  "a3232c479c97057f": {
@@ -4670,7 +4742,7 @@
  "a5a5e44e4c82cda5": {
   "company": "Novonesis",
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-15",
+  "last_seen": "2026-11-19",
   "title": "Project Manager (site‑based Rayong)"
  },
  "a5c661a130f3b72e": {
@@ -4700,7 +4772,7 @@
  "a6e6eecdfece999c": {
   "company": "Indra",
   "first_seen": "2026-10-21",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-19",
   "title": "Product Owner de Producto Radar"
  },
  "a72acbcb6ee11d27": {
@@ -4726,6 +4798,12 @@
   "first_seen": "2026-11-03",
   "last_seen": "2026-11-03",
   "title": "Business Analyst - Finance Tech"
+ },
+ "a8182ab5630b0206": {
+  "company": "Reckitt",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "IT&D Senior Business Analyst - Genesis Procurement"
  },
  "a8e86f68f27a9406": {
   "company": "Bosch",
@@ -4835,11 +4913,23 @@
   "last_seen": "2026-11-03",
   "title": "Product Owner - RDT Data Platforms"
  },
+ "ac8a96577b4f635f": {
+  "company": "Engie",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Business Analyst BESS"
+ },
  "ac9ca71a47af303c": {
   "company": "Bosch",
   "first_seen": "2026-10-30",
   "last_seen": "2026-11-16",
   "title": "Business Analyst in Controlling Area"
+ },
+ "acb26ba1ecb2d5ac": {
+  "company": "Carlsberg",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Project Coordinator 6 Month FTC"
  },
  "acd1ddfb49eae612": {
   "company": "Roche",
@@ -4862,7 +4952,7 @@
  "ad39626d5fac82d5": {
   "company": "N26",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Lead Technical Product Manager — Machine Learning Platform"
  },
  "ad7a34e421511655": {
@@ -4930,6 +5020,12 @@
   "first_seen": "2026-10-27",
   "last_seen": "2026-11-03",
   "title": "Project Manager (m/f/x)"
+ },
+ "b1c56afec16ab489": {
+  "company": "Alstom",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Project Manager"
  },
  "b1f50e08aa67952d": {
   "company": "Engie",
@@ -5006,7 +5102,7 @@
  "b37c97fa4ee10332": {
   "company": "Mistral AI",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Lead Product Manager, Inference"
  },
  "b39f82fa171462a8": {
@@ -5054,7 +5150,7 @@
  "b5b8fdcf30c16aba": {
   "company": "Bosch",
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Project Manager-AI"
  },
  "b5bc36446fc21c48": {
@@ -5192,7 +5288,7 @@
  "bc713a39b37abed1": {
   "company": "Bosch",
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Robotics AI Expert / Technical Product Owner (f/m/div.)"
  },
  "bc759a6964fb2f7b": {
@@ -5206,6 +5302,12 @@
   "first_seen": "2026-10-28",
   "last_seen": "2026-11-04",
   "title": "Product Owner III (Soluções - RH)"
+ },
+ "bce4a9162898c34a": {
+  "company": "Bosch",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Acquisition & Project Manager- Power Electronics"
  },
  "bce8bfb323eac429": {
   "company": "Standard Chartered",
@@ -5246,7 +5348,7 @@
  "be446d19bdb1a28d": {
   "company": "Mistral AI",
   "first_seen": "2026-11-13",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Program Manager, Cloud"
  },
  "be54f195615cd18c": {
@@ -5264,7 +5366,7 @@
  "beb18da146912509": {
   "company": "Supercell",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Principal Product Manager, LiveOps & Monetization, Clash Royale"
  },
  "bee3ded209e135c4": {
@@ -5300,7 +5402,7 @@
  "c07f99d780eca798": {
   "company": "Indra",
   "first_seen": "2026-11-14",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Business Analyst"
  },
  "c0a7b2e152c8f65b": {
@@ -5312,7 +5414,7 @@
  "c0ba3d4806ec7d1b": {
   "company": "Intercom",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Staff AI Product Manager"
  },
  "c0bfa0dcb1d02bc3": {
@@ -5342,7 +5444,7 @@
  "c127c1d2101117a3": {
   "company": "Supercell",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager, D2C"
  },
  "c157707b2817b089": {
@@ -5396,7 +5498,7 @@
  "c34d41558e9131cf": {
   "company": "Nord Security",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager Â· Senior Â· NordVPN NordVPN Vilnius / Kaunas Hybrid NordVPN"
  },
  "c447bf6e3167b5ff": {
@@ -5492,7 +5594,7 @@
  "c7d7406b98e02607": {
   "company": "Neste",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior project manager"
  },
  "c7fa6b280063fd52": {
@@ -5588,7 +5690,7 @@
  "cb09ff5d8998c62c": {
   "company": "Repsol",
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-17",
+  "last_seen": "2026-11-19",
   "title": "Senior Project Manager"
  },
  "cb753e1b501c27ba": {
@@ -5600,7 +5702,7 @@
  "cb8ff348d95dd1c6": {
   "company": "Skeleton Technologies",
   "first_seen": "2026-10-30",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Real Estate Project Manager"
  },
  "cbdc75a945b673bb": {
@@ -5684,13 +5786,13 @@
  "ce79054d13e5fd48": {
   "company": "Mistral AI",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager, Context"
  },
  "ceb2497263ee43ab": {
   "company": "Mapfre",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Product Manager II"
  },
  "cee406aa99f973bd": {
@@ -5702,13 +5804,13 @@
  "cefd743f6a5d5c29": {
   "company": "Intercom",
   "first_seen": "2026-11-04",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Manager (Growth)"
  },
  "cf10c66532644329": {
   "company": "Bosch",
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Lead / Technical Product Owner - Data Pipeline (f/m/div.)"
  },
  "cf246caf5606afa4": {
@@ -5759,6 +5861,12 @@
   "last_seen": "2026-10-22",
   "title": "Product Owner"
  },
+ "d008de74cf0d1e43": {
+  "company": "N26",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Complaints Project Manager - Fluent German"
+ },
  "d01e0ef81d3f4f4e": {
   "company": "adidas",
   "first_seen": "2026-10-17",
@@ -5768,7 +5876,7 @@
  "d0b0e3dc86de1530": {
   "company": "bunq",
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Owner - Credit"
  },
  "d0cb75a0865c5827": {
@@ -5782,6 +5890,12 @@
   "first_seen": "2026-11-03",
   "last_seen": "2026-11-03",
   "title": "Principal Project Manager"
+ },
+ "d1186b9e2397646a": {
+  "company": "SAP",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Project Coordinator for Executive Recruiting (fixed-term contract)"
  },
  "d182c5d2f80a2c38": {
   "company": "Standard Chartered",
@@ -5798,7 +5912,7 @@
  "d1fb242626f1fd59": {
   "company": "Puma",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Global Process & Product Manager - Digital Governance"
  },
  "d2197eefd260c82b": {
@@ -5812,6 +5926,12 @@
   "first_seen": "2026-11-12",
   "last_seen": "2026-11-16",
   "title": "Project Management Associate"
+ },
+ "d241c80d29652639": {
+  "company": "ZF Friedrichshafen",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Cybersecurity Project Manager"
  },
  "d2c6e3ec231e6149": {
   "company": "CRH",
@@ -5963,6 +6083,12 @@
   "last_seen": "2026-11-11",
   "title": "Product Product Manager- Social Messaging Platform Amsterdam, Netherlands"
  },
+ "d6b553f8474bf044": {
+  "company": "Heineken",
+  "first_seen": "2026-11-19",
+  "last_seen": "2026-11-19",
+  "title": "Senior Agile Project Manager (ERP)"
+ },
  "d6d246a2f68f0e3e": {
   "company": "Booking.com",
   "first_seen": "2026-11-11",
@@ -6038,7 +6164,7 @@
  "d8f7c2efa7b04da2": {
   "company": "Mapfre",
   "first_seen": "2026-10-16",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Data & AI Business Analyst"
  },
  "d910022e56f35e43": {
@@ -6056,7 +6182,7 @@
  "d96d216ee490fbd7": {
   "company": "Bosch",
   "first_seen": "2026-11-17",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Product Manager, ADAS Data & Evaluation "
  },
  "d9d31da003336648": {
@@ -6068,7 +6194,7 @@
  "d9d33ead09004e4f": {
   "company": "Monzo",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Technical Program Manager"
  },
  "da54b3da1fbedb63": {
@@ -6092,7 +6218,7 @@
  "da93c146263d1944": {
   "company": "Feedzai",
   "first_seen": "2026-10-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Portugal Advanced Product Manager - Digital Trust"
  },
  "dac887c06af4d323": {
@@ -6260,7 +6386,7 @@
  "e0b70ec33bf35fac": {
   "company": "N26",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Lead Technical Product Manager — Machine Learning Platform"
  },
  "e1109b08123017d4": {
@@ -6302,7 +6428,7 @@
  "e2565394ea552758": {
   "company": "Indra",
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-26",
+  "last_seen": "2026-11-19",
   "title": "Project Manager - Sistemas Aeroespaciales y Defensa"
  },
  "e2649d86887e19b8": {
@@ -6356,13 +6482,13 @@
  "e43cb4180f56e818": {
   "company": "Volvo Cars",
   "first_seen": "2026-11-13",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "AI Voice Interaction Product Owner"
  },
  "e4bfa9583d00ff32": {
   "company": "Volvo Group",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Digital Product Owner"
  },
  "e500c42d2400d141": {
@@ -6512,13 +6638,13 @@
  "ea7d9c4cbc51c9f6": {
   "company": "Bosch",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Project Manager (f/m/div.)"
  },
  "ead8c52c1af5f961": {
   "company": "Bosch",
   "first_seen": "2026-11-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "SENIOR PRODUCT OWNER - SAP INTEGRATION SUITE (36193)"
  },
  "eaf90ecca9dec86f": {
@@ -6542,7 +6668,7 @@
  "eb58e262462c4a3a": {
   "company": "Mistral AI",
   "first_seen": "2026-10-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Program Manager, Human Data Annotation (Code) "
  },
  "eb91acb6a42f36b3": {
@@ -6584,19 +6710,19 @@
  "eca7243c2e1b4af0": {
   "company": "Intercom",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Program Manager"
  },
  "ed22a65d2ce6de7e": {
   "company": "Siemens Energy",
   "first_seen": "2026-11-06",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Business Analyst PLM"
  },
  "ed606f989db758bf": {
   "company": "Puma",
   "first_seen": "2026-11-10",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Project Manager"
  },
  "ed68a6e557f7b8fc": {
@@ -6644,7 +6770,7 @@
  "efc6f0d119a28f66": {
   "company": "Atlas Copco",
   "first_seen": "2026-10-21",
-  "last_seen": "2026-10-21",
+  "last_seen": "2026-11-19",
   "title": "Program Manager - Installation Support"
  },
  "efd8db743ba1b273": {
@@ -6662,7 +6788,7 @@
  "f0803c40d62f8990": {
   "company": "Ocado Group",
   "first_seen": "2026-10-28",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Manager - Retrieval"
  },
  "f08e5cc6d71e82b5": {
@@ -6764,7 +6890,7 @@
  "f435456702adf2a6": {
   "company": "Bosch",
   "first_seen": "2026-11-05",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "SENIOR IT PRODUCT OWNER - SAP MDG Platform"
  },
  "f4b464986529fee4": {
@@ -6860,7 +6986,7 @@
  "f713216bd0c7cd4d": {
   "company": "Qonto",
   "first_seen": "2026-11-12",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Finance Transformation Project Manager"
  },
  "f7b1bf59ea23f41b": {
@@ -6896,7 +7022,7 @@
  "f86654c44ac2538c": {
   "company": "Indra",
   "first_seen": "2026-10-18",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Technical Project Manager - Híbrido Madrid"
  },
  "f8c9dd8dcb42860a": {
@@ -6950,7 +7076,7 @@
  "fa3693fdf4841c40": {
   "company": "Octopus Energy",
   "first_seen": "2026-11-11",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Manager"
  },
  "faaed29fc5ffc2aa": {
@@ -6962,13 +7088,13 @@
  "fb15776c7b619ae8": {
   "company": "Octopus Energy",
   "first_seen": "2026-10-20",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Product Manager"
  },
  "fb85ff93e14405d2": {
   "company": "Mollie",
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-18",
+  "last_seen": "2026-11-19",
   "title": "Senior Product Manager - Business Banking"
  },
  "fbeff8a95a48ffc3": {

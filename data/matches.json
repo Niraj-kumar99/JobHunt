@@ -1,5 +1,35 @@
 [
  {
+  "company": "SAP",
+  "date_is_first_seen": false,
+  "experience": "entry-level title",
+  "found_on": "2026-11-19",
+  "hq_country": "Germany",
+  "key": "d1186b9e2397646a",
+  "location": "Feltham, GB",
+  "notes": "",
+  "posted": "2026-11-19",
+  "sector": "Software",
+  "source": "generic",
+  "title": "Project Coordinator for Executive Recruiting (fixed-term contract)",
+  "url": "https://jobs.sap.com/en/jobs/744000162513927/project-coordinator-for-executive-recruiting-fixed-term-contract/"
+ },
+ {
+  "company": "Bosch",
+  "date_is_first_seen": false,
+  "experience": "entry level",
+  "found_on": "2026-11-19",
+  "hq_country": "Germany",
+  "key": "07cfe9e9488543c5",
+  "location": "Miskolc, , Hungary",
+  "notes": "",
+  "posted": "2026-11-19",
+  "sector": "Industrial technology",
+  "source": "smartrecruiters",
+  "title": "Project Manager - Postponement Area",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162503868-project-manager-postponement-area"
+ },
+ {
   "company": "Vestas",
   "date_is_first_seen": false,
   "experience": "entry-level title",
