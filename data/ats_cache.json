@@ -153,13 +153,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Aviva": {
-  "ats": "generic",
-  "checked": "2026-11-18",
-  "id": "https://careers.aviva.co.uk/",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "BAE Systems": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -1187,6 +1180,13 @@
   "checked": "2026-11-11",
   "id": "https://jobs.sanofi.com/en",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Santander": {
+  "ats": "workday",
+  "checked": "2026-11-20",
+  "id": "santander.wd3.myworkdayjobs.com|santander|SantanderCareers",
+  "note": "found on careers page",
   "ok": true
  },
  "Satispay": {
