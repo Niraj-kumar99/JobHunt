@@ -258,6 +258,13 @@
   "note": "SuccessFactors career site",
   "ok": true
  },
+ "Campari Group": {
+  "ats": "generic",
+  "checked": "2026-11-21",
+  "id": "https://www.camparigroup.com/en/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
  "Capgemini": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -783,13 +790,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Maersk": {
-  "ats": "generic",
-  "checked": "2026-11-11",
-  "id": "https://www.maersk.com/careers",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "Mango": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -1161,6 +1161,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "STMicroelectronics": {
+  "ats": "generic",
+  "checked": "2026-11-21",
+  "id": "https://www.st.com/content/st_com/en/about/careers.html",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
  "Saab": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -1180,13 +1187,6 @@
   "checked": "2026-11-11",
   "id": "https://jobs.sanofi.com/en",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Santander": {
-  "ats": "workday",
-  "checked": "2026-11-20",
-  "id": "santander.wd3.myworkdayjobs.com|santander|SantanderCareers",
-  "note": "found on careers page",
   "ok": true
  },
  "Satispay": {
@@ -1420,6 +1420,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Unilever": {
+  "ats": "workday",
+  "checked": "2026-11-21",
+  "id": "unilever.wd3.myworkdayjobs.com|unilever|Unilever_Experienced_Professionals",
+  "note": "found on careers page",
+  "ok": true
+ },
  "Veriff": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -1495,6 +1502,13 @@
   "checked": "2026-11-11",
   "id": "https://careers.wolt.com/en",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Wolters Kluwer": {
+  "ats": "workday",
+  "checked": "2026-11-21",
+  "id": "wk.wd3.myworkdayjobs.com|wk|External",
+  "note": "found on careers page",
   "ok": true
  },
  "Wärtsilä": {
