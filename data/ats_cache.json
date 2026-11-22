@@ -153,6 +153,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Aviva": {
+  "ats": "generic",
+  "checked": "2026-11-22",
+  "id": "https://careers.aviva.co.uk/",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
  "BAE Systems": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -172,6 +179,13 @@
   "checked": "2026-11-11",
   "id": "careers.bbc.co.uk",
   "note": "SuccessFactors career site",
+  "ok": true
+ },
+ "BP": {
+  "ats": "workday",
+  "checked": "2026-11-22",
+  "id": "bpinternational.wd3.myworkdayjobs.com|bpinternational|bpCareers",
+  "note": "found on careers page",
   "ok": true
  },
  "BT Group": {
@@ -256,13 +270,6 @@
   "checked": "2026-11-10",
   "id": "jobs.crh.com",
   "note": "SuccessFactors career site",
-  "ok": true
- },
- "Campari Group": {
-  "ats": "generic",
-  "checked": "2026-11-21",
-  "id": "https://www.camparigroup.com/en/careers",
-  "note": "no job platform detected; reading page directly",
   "ok": true
  },
  "Capgemini": {
@@ -748,6 +755,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "LEGO Group": {
+  "ats": "workday",
+  "checked": "2026-11-22",
+  "id": "lego.wd103.myworkdayjobs.com|lego|LEGO_External",
+  "note": "found on careers page",
+  "ok": true
+ },
  "LPP": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -787,6 +801,13 @@
   "ats": "generic",
   "checked": "2026-11-11",
   "id": "https://lovable.dev/careers",
+  "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Maersk": {
+  "ats": "generic",
+  "checked": "2026-11-22",
+  "id": "https://www.maersk.com/careers",
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
@@ -893,6 +914,13 @@
   "checked": "2026-11-11",
   "id": "https://www.novonordisk.com/careers.html",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Novonesis": {
+  "ats": "workday",
+  "checked": "2026-11-22",
+  "id": "novonesis.wd103.myworkdayjobs.com|novonesis|Novonesis_Careers",
+  "note": "found via job search page",
   "ok": true
  },
  "ORLEN": {
@@ -1091,6 +1119,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Repsol": {
+  "ats": "workday",
+  "checked": "2026-11-22",
+  "id": "repsol.wd3.myworkdayjobs.com|repsol|Repsol",
+  "note": "found on careers page",
+  "ok": true
+ },
  "Rheinmetall": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -1158,13 +1193,6 @@
   "ats": "generic",
   "checked": "2026-11-11",
   "id": "https://www.skf.com/group/careers",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "STMicroelectronics": {
-  "ats": "generic",
-  "checked": "2026-11-21",
-  "id": "https://www.st.com/content/st_com/en/about/careers.html",
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
@@ -1282,7 +1310,7 @@
  },
  "Spotify": {
   "ats": "generic",
-  "checked": "2026-11-07",
+  "checked": "2026-11-22",
   "id": "https://www.lifeatspotify.com/jobs",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -1408,7 +1436,7 @@
  },
  "Umicore": {
   "ats": "generic",
-  "checked": "2026-11-07",
+  "checked": "2026-11-22",
   "id": "https://www.umicore.com/en/careers/",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -1418,13 +1446,6 @@
   "checked": "2026-11-11",
   "id": "https://www.unicreditgroup.eu/en/careers.html",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Unilever": {
-  "ats": "workday",
-  "checked": "2026-11-21",
-  "id": "unilever.wd3.myworkdayjobs.com|unilever|Unilever_Experienced_Professionals",
-  "note": "found on careers page",
   "ok": true
  },
  "Veriff": {
@@ -1502,13 +1523,6 @@
   "checked": "2026-11-11",
   "id": "https://careers.wolt.com/en",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Wolters Kluwer": {
-  "ats": "workday",
-  "checked": "2026-11-21",
-  "id": "wk.wd3.myworkdayjobs.com|wk|External",
-  "note": "found on careers page",
   "ok": true
  },
  "Wärtsilä": {
