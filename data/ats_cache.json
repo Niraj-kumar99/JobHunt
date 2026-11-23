@@ -1,7 +1,7 @@
 {
  "AB InBev": {
   "ats": "generic",
-  "checked": "2026-11-08",
+  "checked": "2026-11-23",
   "id": "https://www.ab-inbev.com/careers",
   "note": "no job platform detected; reading page directly",
   "ok": true
@@ -153,13 +153,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Aviva": {
-  "ats": "generic",
-  "checked": "2026-11-22",
-  "id": "https://careers.aviva.co.uk/",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "BAE Systems": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -179,13 +172,6 @@
   "checked": "2026-11-11",
   "id": "careers.bbc.co.uk",
   "note": "SuccessFactors career site",
-  "ok": true
- },
- "BP": {
-  "ats": "workday",
-  "checked": "2026-11-22",
-  "id": "bpinternational.wd3.myworkdayjobs.com|bpinternational|bpCareers",
-  "note": "found on careers page",
   "ok": true
  },
  "BT Group": {
@@ -727,13 +713,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Kone": {
-  "ats": "generic",
-  "checked": "2026-11-11",
-  "id": "https://www.kone.com/global/en/careers.html",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
  "Kongsberg": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -753,13 +732,6 @@
   "checked": "2026-11-11",
   "id": "https://careers.loreal.com/en",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "LEGO Group": {
-  "ats": "workday",
-  "checked": "2026-11-22",
-  "id": "lego.wd103.myworkdayjobs.com|lego|LEGO_External",
-  "note": "found on careers page",
   "ok": true
  },
  "LPP": {
@@ -914,13 +886,6 @@
   "checked": "2026-11-11",
   "id": "https://www.novonordisk.com/careers.html",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Novonesis": {
-  "ats": "workday",
-  "checked": "2026-11-22",
-  "id": "novonesis.wd103.myworkdayjobs.com|novonesis|Novonesis_Careers",
-  "note": "found via job search page",
   "ok": true
  },
  "ORLEN": {
@@ -1117,13 +1082,6 @@
   "checked": "2026-11-11",
   "id": "https://www.renaultgroup.com/en/careers/",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Repsol": {
-  "ats": "workday",
-  "checked": "2026-11-22",
-  "id": "repsol.wd3.myworkdayjobs.com|repsol|Repsol",
-  "note": "found on careers page",
   "ok": true
  },
  "Rheinmetall": {

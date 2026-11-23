@@ -1,5 +1,20 @@
 [
  {
+  "company": "Bosch",
+  "date_is_first_seen": false,
+  "experience": "entry level",
+  "found_on": "2026-11-23",
+  "hq_country": "Germany",
+  "key": "cbce49bc90e20197",
+  "location": "Malaga, WA, Australia",
+  "notes": "",
+  "posted": "2026-11-23",
+  "sector": "Industrial technology",
+  "source": "smartrecruiters",
+  "title": "Project Manager",
+  "url": "https://jobs.smartrecruiters.com/BoschGroup/744000163129707-project-manager"
+ },
+ {
   "company": "SAP",
   "date_is_first_seen": false,
   "experience": "entry-level title",
@@ -313,20 +328,5 @@
   "source": "workday",
   "title": "Customer Project Officer (a)",
   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Madrid/Customer-Project-Officer--a-_594122"
- },
- {
-  "company": "Yara",
-  "date_is_first_seen": false,
-  "experience": "entry-level title",
-  "found_on": "2026-10-23",
-  "hq_country": "Norway",
-  "key": "4acf3becba0709ca",
-  "location": "Porsgrunn, NO",
-  "notes": "",
-  "posted": "2026-10-23",
-  "sector": "Fertilisers",
-  "source": "successfactors",
-  "title": "Associate Product Manager",
-  "url": "https://jobs.yara.com/job/Porsgrunn-Associate-Product-Manager/1441076633/?feedId=null&utm_source=J2WRSS&utm_medium=rss&utm_campaign=J2W_RSS"
  }
 ]
