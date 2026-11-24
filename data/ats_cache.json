@@ -426,6 +426,13 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
+ "Diageo": {
+  "ats": "workday",
+  "checked": "2026-11-24",
+  "id": "diageo.wd3.myworkdayjobs.com|diageo|Diageo_Careers",
+  "note": "found on careers page",
+  "ok": true
+ },
  "Doctolib": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -1530,6 +1537,13 @@
   "checked": "2026-11-11",
   "id": "https://careers.airbaltic.com/en",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "argenx": {
+  "ats": "workday",
+  "checked": "2026-11-24",
+  "id": "argenx.wd3.myworkdayjobs.com|argenx|External_Careers",
+  "note": "found on careers page",
   "ok": true
  },
  "bunq": {
