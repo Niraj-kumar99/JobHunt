@@ -99,7 +99,7 @@
  },
  "Alstom": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "jobsearch.alstom.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -141,7 +141,7 @@
  },
  "Atlas Copco": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "www.jobs.atlascopcogroup.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -162,7 +162,7 @@
  },
  "BASF": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "basf.jobs",
   "note": "SuccessFactors career site",
   "ok": true
@@ -253,7 +253,7 @@
  },
  "CRH": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "jobs.crh.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -267,7 +267,7 @@
  },
  "Carlsberg": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "careers.carlsberg.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -295,7 +295,7 @@
  },
  "Coloplast": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "careers.coloplast.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -426,13 +426,6 @@
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
- "Diageo": {
-  "ats": "workday",
-  "checked": "2026-11-24",
-  "id": "diageo.wd3.myworkdayjobs.com|diageo|Diageo_Careers",
-  "note": "found on careers page",
-  "ok": true
- },
  "Doctolib": {
   "ats": "generic",
   "checked": "2026-11-11",
@@ -442,7 +435,7 @@
  },
  "EDP": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "jobs.edp.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -466,6 +459,13 @@
   "checked": "2026-11-11",
   "id": "https://www.eni.com/en-IT/careers.html",
   "note": "no job platform detected; reading page directly",
+  "ok": true
+ },
+ "Equinor": {
+  "ats": "workday",
+  "checked": "2026-11-25",
+  "id": "equinor.wd3.myworkdayjobs.com|equinor|EQNR",
+  "note": "found on careers page",
   "ok": true
  },
  "Erste Group": {
@@ -673,7 +673,7 @@
  },
  "Jaguar Land Rover": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "www.jaguarlandrovercareers.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -799,7 +799,7 @@
  },
  "Mapfre": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "jobs.mapfre.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1072,7 +1072,7 @@
  },
  "Reckitt": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "careers.reckitt.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1149,7 +1149,7 @@
  },
  "SES": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "careers.ses.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1205,7 +1205,7 @@
  },
  "Schindler": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "job.schindler.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1263,13 +1263,6 @@
   "ats": "generic",
   "checked": "2026-11-11",
   "id": "https://www.solvay.com/en/career",
-  "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "Sonae": {
-  "ats": "generic",
-  "checked": "2026-11-11",
-  "id": "https://www.sonae.pt/en/careers/",
   "note": "no job platform detected; reading page directly",
   "ok": true
  },
@@ -1422,7 +1415,7 @@
  },
  "Vestas": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "careers.vestas.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1450,7 +1443,7 @@
  },
  "Volvo Cars": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "jobs.volvocars.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1464,7 +1457,7 @@
  },
  "Vonovia": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "jobs.vonovia.de",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1492,21 +1485,21 @@
  },
  "Wärtsilä": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "careers.wartsila.com",
   "note": "SuccessFactors career site",
   "ok": true
  },
  "Yara": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "jobs.yara.com",
   "note": "SuccessFactors career site",
   "ok": true
  },
  "ZF Friedrichshafen": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "jobs.zf.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1527,7 +1520,7 @@
  },
  "adidas": {
   "ats": "successfactors",
-  "checked": "2026-11-10",
+  "checked": "2026-11-25",
   "id": "jobs.adidas-group.com",
   "note": "SuccessFactors career site",
   "ok": true
@@ -1537,13 +1530,6 @@
   "checked": "2026-11-11",
   "id": "https://careers.airbaltic.com/en",
   "note": "no job platform detected; reading page directly",
-  "ok": true
- },
- "argenx": {
-  "ats": "workday",
-  "checked": "2026-11-24",
-  "id": "argenx.wd3.myworkdayjobs.com|argenx|External_Careers",
-  "note": "found on careers page",
   "ok": true
  },
  "bunq": {
